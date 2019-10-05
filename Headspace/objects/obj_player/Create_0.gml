@@ -19,5 +19,5 @@ enum dir {
 // Sprite move lookup table
 sprite_[player.move, dir.right] = s_player_right;
 sprite_[player.move, dir.up] = s_player_up;
-sprite_[player.move, dir.left] = s_player_right;
+sprite_[player.move, dir.left] = s_player_left;
 sprite_[player.move, dir.down] = s_player_down;
