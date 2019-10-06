@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0b0c7c42-3aa1-4845-b50f-2ed6a8878eea",
+            "Value": {
+                "id": "374a3b52-54e2-483c-a56f-3f8613e9c5f1",
+                "resourcePath": "objects\\obj_stomach2\\obj_stomach2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0bacbe1c-671e-4a4c-8180-8e1e5436288f",
             "Value": {
                 "id": "205aebcf-f059-4165-a299-7b08615a7974",
@@ -551,6 +559,14 @@
             }
         },
         {
+            "Key": "5826d5ff-e7ff-46d4-9d4d-a7daa0c520e3",
+            "Value": {
+                "id": "a20203b0-9a2a-45e9-be02-2950adf42d03",
+                "resourcePath": "objects\\obj_lungs\\obj_lungs.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "58b5789a-275d-44d1-be3e-a387f567b69b",
             "Value": {
                 "id": "c0b00586-c787-42c9-b6b3-4ca9af385246",
@@ -579,6 +595,14 @@
             "Value": {
                 "id": "bb168e14-9706-49bc-9144-e083c4751a9a",
                 "resourcePath": "sprites\\s_bathroomlung\\s_bathroomlung.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5a9cee11-1ffa-4b03-963c-50a8fefa2dc1",
+            "Value": {
+                "id": "ef17a066-6bff-47e5-b63b-120823dfb95c",
+                "resourcePath": "sprites\\s_stomach2\\s_stomach2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1063,6 +1087,14 @@
             }
         },
         {
+            "Key": "95248ee7-bdba-4d68-ab00-664066b5d66e",
+            "Value": {
+                "id": "1b02a8d2-6d9d-46cd-a522-203f433df24f",
+                "resourcePath": "sprites\\s_lungs\\s_lungs.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "96e123e2-293d-43d1-b2ec-e185470c507d",
             "Value": {
                 "id": "97bd741e-4fcb-485c-a9c7-fb7215a580eb",
@@ -1348,14 +1380,6 @@
                 "id": "c5a57aa0-6683-40e5-b9f9-89dadedcf5a4",
                 "resourcePath": "sprites\\s_chair\\s_chair.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "be26eb7c-2478-47ac-9bd0-066317a465ec",
-            "Value": {
-                "id": "ea59028d-c714-4e38-971c-4777b3f09684",
-                "resourcePath": "objects\\obj_fixedcamera\\obj_fixedcamera.yy",
-                "resourceType": "GMObject"
             }
         },
         {

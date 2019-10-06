@@ -1,10 +1,3 @@
-if instance_exists(obj_dialog) {
-	max_speed_ = 0;
-	image_speed = 0;
-} else {
-	max_speed_ = 5;
-}
-
 image_speed = 0;
 depth = -y;
 var _x_input = obj_input.right_ - obj_input.left_;
