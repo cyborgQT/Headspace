@@ -1,3 +1,10 @@
+if instance_exists(obj_dialog) {
+	max_speed_ = 0;
+	image_speed = 0;
+} else {
+	max_speed_ = 1;
+}
+
 image_speed = 0;
 depth = -y;
 var _x_input = obj_input.right_ - obj_input.left_;
@@ -16,3 +23,6 @@ if _x_input == 0 and _y_input == 0 {
 
 sprite_index = sprite_[player.move, direction_facing_];
 move_movement_entity(false);
+
+scr_who_we_talkin_to();
+

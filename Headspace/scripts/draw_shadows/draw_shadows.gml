@@ -1,1 +1,1 @@
-draw_sprite_ext(s_shadow, image_index, x, y, image_xscale, image_yscale, image_angle, c_white, 0.50);
+draw_sprite_ext(s_shadow, image_index, x, y, image_xscale, image_yscale, image_angle, c_white, 0.35);

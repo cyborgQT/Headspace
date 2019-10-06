@@ -35,7 +35,7 @@
             "m_owner": "f8d3803a-9301-4389-aabc-e7aa3b4fab70"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "f6dc0fb1-90b0-48bb-9892-b0110c8fc47c",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -49,7 +49,36 @@
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
-    "physicsShapePoints": null,
+    "physicsShapePoints": [
+        {
+            "id": "e9e38c58-4634-4ee5-b1eb-75f4db0bbe9b",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "id": "0a997a55-e5a1-4218-a894-27cfd2a37bc2",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 50,
+            "y": 0
+        },
+        {
+            "id": "d1ef848f-84e5-46ec-a19a-a73305154382",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 50,
+            "y": 100
+        },
+        {
+            "id": "9a3f4a27-c2bd-4ddd-b6ba-9d3c5f4d6595",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 100
+        }
+    ],
     "physicsStartAwake": true,
     "properties": [
         
