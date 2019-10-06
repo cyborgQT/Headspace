@@ -11,7 +11,8 @@
         "0ff75b06-e5a5-4b92-91ef-ba947166489f",
         "be26eb7c-2478-47ac-9bd0-066317a465ec",
         "0e259316-fde7-4ae1-9094-bf72a12d8b4e",
-        "23866484-f02c-4d6c-b2af-bb835e532cd8"
+        "23866484-f02c-4d6c-b2af-bb835e532cd8",
+        "5e6740f2-b85d-4798-949f-d0fd396ddf10"
     ],
     "filterType": "GMObject",
     "folderName": "Helper",

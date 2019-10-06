@@ -58,7 +58,7 @@
             "isLocked": false,
             "name": "Layer 1",
             "opacity": 55,
-            "visible": true
+            "visible": false
         },
         {
             "id": "b347947c-29db-43ee-b1c5-e17ff6337942",

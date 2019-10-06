@@ -2,7 +2,7 @@ if instance_exists(obj_dialog) {
 	max_speed_ = 0;
 	image_speed = 0;
 } else {
-	max_speed_ = 1;
+	max_speed_ = 5;
 }
 
 image_speed = 0;
