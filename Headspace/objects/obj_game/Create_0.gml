@@ -7,3 +7,5 @@ create_inventory(3);
 inventory_add(obj_pill);
 inventory_add(obj_plushie);
 inventory_add(obj_inhaler);
+
+audio_play_sound(snd_theme,1,true);
