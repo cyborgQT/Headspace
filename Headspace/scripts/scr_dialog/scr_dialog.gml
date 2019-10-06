@@ -30,8 +30,87 @@ switch (argument0) { // run through possible scenes
 		break;
 }		
 
+switch (argument0) { // run through possible scenes
+    case (1):
+        obj.msg[0] = "I-I’m t-t-too nervous to go a-and check on my tw-twin, c-could you d-do it f-for me?"; // message
+        obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+        obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+
+        obj.msg[1] = "C-could you t-take them my inhaler? Just in c-case?";
+        obj.xx[1] = obj_npc.x;
+        obj.yy[1] = obj_npc.y - 85;
+		break;
+}		
+
+switch (argument0) { // run through possible scenes
+    case (2):
+        obj.msg[0] = "Who are y-you...?"; // message
+        obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+        obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+
+        obj.msg[1] = "Have you seen my sibling anywhere?";
+        obj.xx[1] = obj_npc.x;
+        obj.yy[1] = obj_npc.y - 85;
+        
+		 obj.msg[2] = "If you do, please tell them I'm fine..";
+        obj.xx[2] = obj_npc.x;
+        obj.yy[2] = obj_npc.y - 85;
+		break;
+}
+
+switch (argument0) { // run through possible scenes
+    case (3):
+        obj.msg[0] = "’Sup, bro."; // message
+        obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+        obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+
+        obj.msg[1] = "Wha? They’re just cookies, man.";
+        obj.xx[1] = obj_npc.x;
+        obj.yy[1] = obj_npc.y - 85;
+        
+		 obj.msg[2] = "Eating makes me feel better, ‘specially when I misplace my pills.";
+        obj.xx[2] = obj_npc.x;
+        obj.yy[2] = obj_npc.y - 85;
+		break;
+}
+
+switch (argument0) { // run through possible scenes
+    case (4):
+        obj.msg[0] = "Oh, t-thank you..."; // message
+        obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+        obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+		break;
+}
+       
+switch (argument0) { // run through possible scenes
+	case (5):
+	    obj.msg[0] = "Eep! Thank you!"; // message
+	    obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
 		
-        // SCENE TEMPLATE
+		obj.msg[1] = "I'm so glad she's back.."; // message
+	    obj.xx[1] = obj_npc.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[1] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+		break;
+}
+	   
+switch (argument0) { // run through possible scenes
+	case (6):
+	    obj.msg[0] = "Thanks again, broseph!"; // message
+	    obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+		break;
+}	   
+	   
+switch (argument0) { // run through possible scenes
+	case (7):
+	    obj.msg[0] = "T-thank you so much..."; // message
+	    obj.xx[0] = obj_npc.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[0] = obj_npc.y - 85; // dialogue position (bottom of pointer) y
+		break;
+}		   
+	   
+	   // SCENE TEMPLATE
         /*case(numb): // ensure numb is not used in cases above
             obj.msg[0] = "abc"; // messages increase chronologically
             obj.xx[0] = 32;

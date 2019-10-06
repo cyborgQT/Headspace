@@ -2,11 +2,14 @@ depth_correction();
 
 enum dialog {
 	 heart,
-	 lung,
-	 lung2,
+	 bathroomlung,
+	 closetlung,
 	 stomach,
-	 leg,
-	 leg2
+	 closetlunghappy,
+	 hearthappy,
+	 stomachhappy,
+	 lungshappy
+	
  }
 
 
