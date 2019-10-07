@@ -1,2 +1,2 @@
-room_ = rm_heart;
-start = i_brain_to_heart;
+room_ = rm_mouth;
+start = i_brain_to_mouth;
