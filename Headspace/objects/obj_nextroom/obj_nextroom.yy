@@ -2,10 +2,10 @@
     "id": "23866484-f02c-4d6c-b2af-bb835e532cd8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_end",
+    "name": "obj_nextroom",
     "eventList": [
         {
-            "id": "b613be03-80fe-4108-b326-4c85228583f2",
+            "id": "2785eee9-a417-418c-bec6-a6d1a10140c4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
