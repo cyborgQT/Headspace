@@ -1,2 +1,2 @@
 event_inherited();
-description="a pill, the stomach may need this."
+description_ ="Looks like someone's pills, they definitely need these."

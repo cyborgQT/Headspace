@@ -1,9 +1,9 @@
 ///@arg size
-var size_ = argument0;
-global.inventory =[];
+var _size = argument0;
+global.inventory = [];
 
-var i = 0;
-repeat(size_){
-	global.inventory[i] = noone;
-	i++
+var _i = 0;
+repeat(_size) {
+	global.inventory[_i] = noone;
+	_i++;
 }

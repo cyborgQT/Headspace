@@ -1,0 +1,1 @@
+global.doll_quest_complete = false;

@@ -1,0 +1,1 @@
+global.pill_quest_complete = false;

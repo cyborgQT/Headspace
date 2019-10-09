@@ -32,13 +32,21 @@ switch (argument0) { // run through possible scenes
 
 switch (argument0) { // run through possible scenes
     case (1):
-        obj.msg[0] = "I-I'm t-t-too nervous to go a-and check on my tw-twin, c-could you d-do it f-for me?"; // message
+        obj.msg[0] = "I-I'm too nervous to go a-and check on my tw-twin, c-could you do it for me?"; // message
         obj.xx[0] = obj_bathroomlung.x; // dialogue position (middle of box/pointer) x
         obj.yy[0] = obj_bathroomlung.y - 85; // dialogue position (bottom of pointer) y
 
-        obj.msg[1] = "C-could you t-take them my inhaler? Just in c-case?";
+        obj.msg[1] = "I hate being a bother.. but I'm so stressed, I can't leave the bathroom right now..";
         obj.xx[1] = obj_bathroomlung.x;
         obj.yy[1] = obj_bathroomlung.y - 85;
+		
+		obj.msg[2] = "C-could you take them my inhaler? Just in c-case?";
+        obj.xx[2] = obj_bathroomlung.x;
+        obj.yy[2] = obj_bathroomlung.y - 85;
+		
+		obj.msg[3] = "Thank you so much.. I hope they're okay..";
+        obj.xx[3] = obj_bathroomlung.x;
+        obj.yy[3] = obj_bathroomlung.y - 85;
 		break;
 }		
 
@@ -48,19 +56,27 @@ switch (argument0) { // run through possible scenes
         obj.xx[0] = obj_closetlung.x; // dialogue position (middle of box/pointer) x
         obj.yy[0] = obj_closetlung.y - 85; // dialogue position (bottom of pointer) y
 
-        obj.msg[1] = "Have you seen my sibling anywhere?";
+        obj.msg[1] = "Oh, I'm here because its quiet..";
         obj.xx[1] = obj_closetlung.x;
         obj.yy[1] = obj_closetlung.y - 85;
-        
-		 obj.msg[2] = "If you do, please tell them I'm fine..";
+		
+		obj.msg[2] = "Just needed a moment to catch my breath.. y'kno?";
         obj.xx[2] = obj_closetlung.x;
         obj.yy[2] = obj_closetlung.y - 85;
+        
+		obj.msg[3] = "You haven't seen my sibling anywhere, have you?";
+        obj.xx[3] = obj_closetlung.x;
+        obj.yy[3] = obj_closetlung.y - 85;
+		
+		obj.msg[4] = "If you see them, please tell them I'm fine..";
+        obj.xx[4] = obj_closetlung.x;
+        obj.yy[4] = obj_closetlung.y - 85;
 		break;
 }
 
 switch (argument0) { // run through possible scenes
     case (3):
-        obj.msg[0] = "'Sup, bro."; // message
+        obj.msg[0] = "'Sup, bro. Want one?"; // message
         obj.xx[0] = obj_stomach.x; // dialogue position (middle of box/pointer) x
         obj.yy[0] = obj_stomach.y - 85; // dialogue position (bottom of pointer) y
 
@@ -117,6 +133,14 @@ switch (argument0) { // run through possible scenes
 	    obj.yy[0] = obj_human.y - 85; // dialogue position (bottom of pointer) y
 		break;
 }	
+
+switch (argument0) {
+	case (9):
+		obj.msg[0] = "";
+		obj.xx[0] = obj_closetlung.x; 
+	    obj.yy[0] = obj_closetlung.y - 85;
+		break;
+}
 	   
 	   // SCENE TEMPLATE
         /*case(numb): // ensure numb is not used in cases above
