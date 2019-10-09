@@ -11,3 +11,7 @@ audio_play_sound(snd_theme,1,true);
 global.doll = true;
 global.pill = true;
 global.inhaler = true;
+
+global.dollquestcomplete = false;
+global.pillquestcomplete = false;
+global.inhalerquestcomplete = false;

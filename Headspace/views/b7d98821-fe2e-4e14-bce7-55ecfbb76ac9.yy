@@ -10,7 +10,7 @@
         "e102c498-9436-45cd-b5f6-a1910b8a73f4"
     ],
     "filterType": "GMObject",
-    "folderName": "Screens",
+    "folderName": "UI",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

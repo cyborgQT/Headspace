@@ -8,8 +8,9 @@ enum dialog {
 	 closetlunghappy,
 	 hearthappy,
 	 stomachhappy,
-	 lungshappy
-	
+	 lungshappy,
+	 sleepyhuman
+		
  }
 
 

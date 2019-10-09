@@ -1,5 +1,5 @@
-var x_= window_get_width()/2;
-var y_ = window_get_height()/2;
+var x_= view_wport/2;
+var y_ = view_hport/2;
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 for(var i = 0; i < optionsLength; i++){

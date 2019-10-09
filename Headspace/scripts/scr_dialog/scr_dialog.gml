@@ -108,7 +108,15 @@ switch (argument0) { // run through possible scenes
 	    obj.xx[0] = obj_lungs.x; // dialogue position (middle of box/pointer) x
 	    obj.yy[0] = obj_lungs.y - 85; // dialogue position (bottom of pointer) y
 		break;
-}		   
+}	
+
+switch (argument0) { // run through possible scenes
+	case (8):
+	    obj.msg[0] = "Zzzzzzz..."; // message
+	    obj.xx[0] = obj_human.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[0] = obj_human.y - 85; // dialogue position (bottom of pointer) y
+		break;
+}	
 	   
 	   // SCENE TEMPLATE
         /*case(numb): // ensure numb is not used in cases above
