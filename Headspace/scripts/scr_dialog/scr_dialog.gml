@@ -12,7 +12,7 @@ var obj = instance_create_layer(0, 0, "Dialog", obj_dialog); // create the dialo
 
 switch (argument0) { // run through possible scenes
     case (0):
-        obj.msg[0] = "Snff... My plushie's missing..."; // message
+        obj.msg[0] = "Snff... My dollie's missing..."; // message
         obj.xx[0] = obj_heart.x; // dialogue position (middle of box/pointer) x
         obj.yy[0] = obj_heart.y - 85; // dialogue position (bottom of pointer) y
 

@@ -759,14 +759,6 @@
             }
         },
         {
-            "Key": "799a5076-7fc1-4e11-ae91-62a0e20c0041",
-            "Value": {
-                "id": "e2d6e12e-80a7-4d1f-b20b-a9967c29c1f7",
-                "resourcePath": "rooms\\rm_mouthwpeople\\rm_mouthwpeople.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "7a74dd48-a5e1-4277-b041-542fb2995c46",
             "Value": {
                 "id": "1a6b17a1-437f-4efc-a4d0-4a7e08ea1909",
@@ -823,14 +815,6 @@
             }
         },
         {
-            "Key": "80384a03-d831-48c7-b00a-cfade3ea9804",
-            "Value": {
-                "id": "fc72009c-fdb5-4fe4-854d-8fe34f84cce0",
-                "resourcePath": "objects\\obj_trash\\obj_trash.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8062f4f4-8822-4ec8-be7f-7f98f43f4b24",
             "Value": {
                 "id": "f11a6429-0264-4a88-a4da-a89ee5add532",
@@ -875,14 +859,6 @@
             "Value": {
                 "id": "52dda3b4-9edd-4cd3-8091-c3cfea6e0827",
                 "resourcePath": "objects\\obj_doll_pickup\\obj_doll_pickup.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8747e832-fbb6-4e01-a459-ba667f34d13a",
-            "Value": {
-                "id": "61965343-c276-40ca-81d0-71aad1949fb5",
-                "resourcePath": "objects\\obj_sidedoorflipped\\obj_sidedoorflipped.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1180,14 +1156,6 @@
                 "id": "01ae95c7-2791-4747-a2f3-e76b688ab6c4",
                 "resourcePath": "sprites\\s_bathroomrm\\s_bathroomrm.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b1e67dfd-c33f-4676-9527-25d49daea644",
-            "Value": {
-                "id": "a090b690-6e17-4d0d-a6dc-e3de7ef80b57",
-                "resourcePath": "objects\\obj_cheatingflipped\\obj_cheatingflipped.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1620,6 +1588,14 @@
                 "id": "64bdea02-f262-4a7d-a8d6-11a67f05d736",
                 "resourcePath": "sprites\\s_cookies\\s_cookies.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc709ab1-8bc6-4826-9ada-0f44885c66bf",
+            "Value": {
+                "id": "612708d7-e77d-4a11-9095-09ee88754dbb",
+                "resourcePath": "objects\\obj_pillow\\obj_pillow.yy",
+                "resourceType": "GMObject"
             }
         },
         {

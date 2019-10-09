@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_doll_pickup",
     "eventList": [
-        
+        {
+            "id": "f948f4ac-ede6-493e-85ae-acd9a625b9f2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "854d8318-e5dc-42b7-9491-97b7e87ada04"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

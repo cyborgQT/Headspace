@@ -1,18 +1,18 @@
 {
-    "id": "b1e67dfd-c33f-4676-9527-25d49daea644",
+    "id": "fc709ab1-8bc6-4826-9ada-0f44885c66bf",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cheatingflipped",
+    "name": "obj_pillow",
     "eventList": [
         {
-            "id": "5977b0a5-1afe-407f-abda-7fb5b83c8ab8",
+            "id": "43ba8047-05d8-4c11-8424-a75bb099d051",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b1e67dfd-c33f-4676-9527-25d49daea644"
+            "eventtype": 0,
+            "m_owner": "fc709ab1-8bc6-4826-9ada-0f44885c66bf"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "7cc75093-ebef-431f-af5c-0a0f1ae583b3",
     "visible": true
 }

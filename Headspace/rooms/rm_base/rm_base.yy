@@ -64,13 +64,39 @@
             "visible": true
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Cheating",
+            "id": "c9a29bbd-84a6-4639-86d8-02e8586338a5",
+            "depth": 200,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Above_Sprites",
             "id": "e3c17f90-387e-4ac1-af1e-eaef6e4e80a5",
             "assets": [
 
             ],
-            "depth": 200,
+            "depth": 300,
             "grid_x": 25,
             "grid_y": 25,
             "hierarchyFrozen": false,
@@ -93,7 +119,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Level",
             "id": "c991abe8-827e-4a0f-a81b-0b0768dd4b69",
-            "depth": 300,
+            "depth": 400,
             "grid_x": 25,
             "grid_y": 25,
             "hierarchyFrozen": false,
@@ -122,7 +148,7 @@
             "assets": [
 
             ],
-            "depth": 400,
+            "depth": 500,
             "grid_x": 25,
             "grid_y": 25,
             "hierarchyFrozen": false,
@@ -145,7 +171,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Collisions",
             "id": "6a441764-7fe5-4bf4-9156-cb9504cb701a",
-            "depth": 500,
+            "depth": 600,
             "grid_x": 25,
             "grid_y": 25,
             "hierarchyFrozen": false,
@@ -174,7 +200,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4279832598 },
-            "depth": 600,
+            "depth": 700,
             "grid_x": 25,
             "grid_y": 25,
             "hierarchyFrozen": false,
