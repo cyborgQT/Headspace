@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "69d98256-b8be-46ef-8b75-b970f633a25e",
+            "Value": {
+                "id": "e1bcf75d-9b21-46c6-be13-31db42d5639c",
+                "resourcePath": "sprites\\s_mirror_image\\s_mirror_image.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a39e022-23e3-499d-a40e-821043d838d4",
             "Value": {
                 "id": "24968675-33d6-4927-b19f-b67d160f7c36",
@@ -1255,11 +1263,27 @@
             }
         },
         {
+            "Key": "bea3d002-ecb2-43bf-afa9-b5a3ced0883c",
+            "Value": {
+                "id": "a2602f51-1c1b-4dd1-af31-6197566bfdf8",
+                "resourcePath": "rooms\\rm_test\\rm_test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "bf32e1b6-3cac-4c05-a4a0-7f13c7adc494",
             "Value": {
                 "id": "d81f91a4-0821-4d32-9cd4-c4db014e0058",
                 "resourcePath": "sprites\\s_plushie\\s_plushie.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0c7dc67-755c-4d42-97b6-4cd65b94803a",
+            "Value": {
+                "id": "2157ca76-5e45-4bf7-9da4-c6f95ebcc476",
+                "resourcePath": "objects\\obj_mirror\\obj_mirror.yy",
+                "resourceType": "GMObject"
             }
         },
         {

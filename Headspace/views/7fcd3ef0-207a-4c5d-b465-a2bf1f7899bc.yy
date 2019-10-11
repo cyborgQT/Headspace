@@ -10,7 +10,8 @@
         "c449c765-75c0-4bce-9ca8-fc41d0b3241b",
         "59c438fb-0702-4597-a45e-b38434b9b57a",
         "4df8b8a9-8947-42ce-afdf-c9e1f0928139",
-        "92395fab-521b-4fd4-96e7-e939a8bd3777"
+        "92395fab-521b-4fd4-96e7-e939a8bd3777",
+        "69d98256-b8be-46ef-8b75-b970f633a25e"
     ],
     "filterType": "GMSprite",
     "folderName": "Bathroom Lung",
