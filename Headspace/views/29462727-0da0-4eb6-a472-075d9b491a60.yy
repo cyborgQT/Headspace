@@ -15,7 +15,8 @@
         "dd5def58-d788-498e-b458-05df736516d2",
         "db276dc9-3874-462b-a064-b1694b139484",
         "efb9563c-252a-4d8c-8b21-f169a1045d45",
-        "c86729bc-1eb7-41ca-a3c7-fa95f3464a52"
+        "c86729bc-1eb7-41ca-a3c7-fa95f3464a52",
+        "65f0fc5c-f39f-4612-9d1f-7740eb8c1532"
     ],
     "filterType": "GMSprite",
     "folderName": "Brain",

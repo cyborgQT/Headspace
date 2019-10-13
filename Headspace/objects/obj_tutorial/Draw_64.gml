@@ -9,7 +9,7 @@ for(var i = 0; i < optionsLength; i++){
 		draw_set_color(menu_dark_color);
 	}
 		
-	draw_set_font(ft_dialog);
+	draw_set_font(ft_title);
 	draw_text(x_, y_ + i*35, options[i]);
 }
 draw_set_color(c_white);

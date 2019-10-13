@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "65f0fc5c-f39f-4612-9d1f-7740eb8c1532",
+            "Value": {
+                "id": "574ce858-b427-4736-a791-e741468dc63b",
+                "resourcePath": "sprites\\s_desk\\s_desk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6764eb1a-b93f-4263-a5d3-bd3fc4cd1047",
             "Value": {
                 "id": "7d779d91-20ad-4ba1-b9a3-f4aa4493abaf",
@@ -708,6 +716,14 @@
                 "id": "a22d629b-7ed0-4723-bc81-3759c28b3bdc",
                 "resourcePath": "fonts\\ft_title\\ft_title.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "6eab6787-42b0-4070-a78e-cd3263c3711e",
+            "Value": {
+                "id": "ae6da760-ed7f-4ce3-a5b5-85555a4ed7bd",
+                "resourcePath": "sprites\\s_controls\\s_controls.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1782,13 +1798,13 @@
         "e4eeac30-df14-482b-bd1b-b38ab89d24f7",
         "e8d8d2c7-db36-4ded-afff-d1eb2d7e135e",
         "80aca063-9933-4d05-b029-c4c68999da4f",
-        "6df81cf2-d561-4bb1-b5cb-2563109c6d11",
-        "fce37d99-46e2-4903-84eb-0d7651e2f43a",
-        "9facb32e-a52b-4ce4-9799-2e77a7ad23eb",
         "ddfd6ece-47fc-449b-ba32-5a7d63c1182f",
         "190c8474-8d12-4c13-a7ea-975b89a1476a",
         "d27cc8df-be6d-4363-8042-3967ce015a00",
-        "066ff43c-13dc-4a6c-8eec-0cc08d330168"
+        "066ff43c-13dc-4a6c-8eec-0cc08d330168",
+        "6df81cf2-d561-4bb1-b5cb-2563109c6d11",
+        "fce37d99-46e2-4903-84eb-0d7651e2f43a",
+        "9facb32e-a52b-4ce4-9799-2e77a7ad23eb"
     ],
     "tutorial": ""
 }
