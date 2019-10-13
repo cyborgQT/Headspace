@@ -36,7 +36,7 @@ switch (argument0) { // run through possible scenes
         obj.xx[0] = obj_bathroomlung.x; // dialogue position (middle of box/pointer) x
         obj.yy[0] = obj_bathroomlung.y - 85; // dialogue position (bottom of pointer) y
 
-        obj.msg[1] = "I hate being a bother.. but I'm so stressed, I can't leave the bathroom right now..";
+        obj.msg[1] = "I hate being a bother.. but I'm so stressed, I can't leave the bathroom..";
         obj.xx[1] = obj_bathroomlung.x;
         obj.yy[1] = obj_bathroomlung.y - 85;
 		
@@ -44,7 +44,7 @@ switch (argument0) { // run through possible scenes
         obj.xx[2] = obj_bathroomlung.x;
         obj.yy[2] = obj_bathroomlung.y - 85;
 		
-		obj.msg[3] = "Thank you so much.. I hope they're okay..";
+		obj.msg[3] = "I hope they're okay..";
         obj.xx[3] = obj_bathroomlung.x;
         obj.yy[3] = obj_bathroomlung.y - 85;
 		break;
@@ -60,7 +60,7 @@ switch (argument0) { // run through possible scenes
         obj.xx[1] = obj_closetlung.x;
         obj.yy[1] = obj_closetlung.y - 85;
 		
-		obj.msg[2] = "Just needed a moment to catch my breath.. y'kno?";
+		obj.msg[2] = "Just needed a moment to catch my breath..";
         obj.xx[2] = obj_closetlung.x;
         obj.yy[2] = obj_closetlung.y - 85;
         
@@ -68,7 +68,7 @@ switch (argument0) { // run through possible scenes
         obj.xx[3] = obj_closetlung.x;
         obj.yy[3] = obj_closetlung.y - 85;
 		
-		obj.msg[4] = "If you see them, please tell them I'm fine..";
+		obj.msg[4] = "If you do, please tell them I'm fine..";
         obj.xx[4] = obj_closetlung.x;
         obj.yy[4] = obj_closetlung.y - 85;
 		break;
@@ -92,21 +92,30 @@ switch (argument0) { // run through possible scenes
 
 switch (argument0) { // run through possible scenes
     case (4):
-        obj.msg[0] = "Oh, t-thank you..."; // message
+        obj.msg[0] = "Oh, that's their inhaler!"; // message
         obj.xx[0] = obj_closetlung.x; // dialogue position (middle of box/pointer) x
         obj.yy[0] = obj_closetlung.y - 85; // dialogue position (bottom of pointer) y
+		
+		obj.msg[1] = "You brought this from them?"; // message
+        obj.xx[1] = obj_closetlung.x; // dialogue position (middle of box/pointer) x
+        obj.yy[1] = obj_closetlung.y - 85; // dialogue position (bottom of pointer) y
+		
+		obj.msg[2] = "You're too kind.."; // message
+        obj.xx[2] = obj_closetlung.x; // dialogue position (middle of box/pointer) x
+        obj.yy[2] = obj_closetlung.y - 85; // dialogue position (bottom of pointer) y
+		
 		break;
 }
        
 switch (argument0) { // run through possible scenes
 	case (5):
 	    obj.msg[0] = "Eep! Thank you!"; // message
-	    obj.xx[0] = obj_heart2.x; // dialogue position (middle of box/pointer) x
-	    obj.yy[0] = obj_heart2.y - 85; // dialogue position (bottom of pointer) y
+	    obj.xx[0] = obj_heart.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[0] = obj_heart.y - 85; // dialogue position (bottom of pointer) y
 		
 		obj.msg[1] = "I'm so glad she's back.."; // message
-	    obj.xx[1] = obj_heart2.x; // dialogue position (middle of box/pointer) x
-	    obj.yy[1] = obj_heart2.y - 85; // dialogue position (bottom of pointer) y
+	    obj.xx[1] = obj_heart.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[1] = obj_heart.y - 85; // dialogue position (bottom of pointer) y
 		break;
 }
 	   
@@ -136,19 +145,44 @@ switch (argument0) { // run through possible scenes
 
 switch (argument0) {
 	case (9):
-		obj.msg[0] = "";
-		obj.xx[0] = obj_closetlung.x; 
-	    obj.yy[0] = obj_closetlung.y - 85;
+		obj.msg[0] = "I missed her so much...";
+		obj.xx[0] = obj_heart2.x; 
+	    obj.yy[0] = obj_heart2.y - 85;
+		
+		obj.msg[1] = "Thank you.. <3";
+		obj.xx[1] = obj_heart2.x; 
+	    obj.yy[1] = obj_heart2.y - 85;
+		break;
+}
+
+switch (argument0) {
+	case (10):
+		obj.msg[0] = "Whoa! Where'd you find those?";
+		obj.xx[0] = obj_stomach.x; 
+	    obj.yy[0] = obj_stomach.y - 85;
+		
+		obj.msg[1] = "Man, I tell you I've been looking all over for those pills.";
+		obj.xx[1] = obj_stomach.x; 
+	    obj.yy[1] = obj_stomach.y - 85;
+		
+		obj.msg[2] = "I really owe you one, you're a real bro, y'kno?";
+		obj.xx[2] = obj_stomach.x; 
+	    obj.yy[2] = obj_stomach.y - 85;
 		break;
 }
 	   
-	   // SCENE TEMPLATE
-        /*case(numb): // ensure numb is not used in cases above
-            obj.msg[0] = "abc"; // messages increase chronologically
-            obj.xx[0] = 32;
-            obj.yy[0] = 32;
-            obj.msg[1] = "123";
-            obj.xx[1] = 128;
-            obj.yy[1] = 256;
-            break;*/ // include break
-        /* You can also add in other variables, like colors or pictures. Be sure to define them in oDiagloue, though*/
+switch (argument0) {
+	case (11):
+		obj.msg[0] = "D-Did you find them, alright?";
+		obj.xx[0] = obj_bathroomlung.x; 
+	    obj.yy[0] = obj_bathroomlung.y - 85;
+		
+		obj.msg[1] = "Oh, thank g-goodness.";
+		obj.xx[1] = obj_bathroomlung.x; 
+	    obj.yy[1] = obj_bathroomlung.y - 85;
+		
+		obj.msg[2] = "Thank you so much for checking on them.";
+		obj.xx[2] = obj_bathroomlung.x; 
+	    obj.yy[2] = obj_bathroomlung.y - 85;
+		break;
+}

@@ -1,7 +1,4 @@
-event_inherited();
-z = 0;
-z_speed = -3;
-gravity_ = 0.2;
-
-
+depth_correction();
+z_ = 0;
+picked_up = 0;
 

@@ -7,9 +7,12 @@ enum dialog {
 	 stomach,
 	 closetlunghappy,
 	 hearthappy,
+	 stomachinmouth,
+	 lungsinmouth,
+	 sleepyhuman,
+	 heartinmouth,
 	 stomachhappy,
-	 lungshappy,
-	 sleepyhuman
+	 bathroomlunghappy
 		
  }
 

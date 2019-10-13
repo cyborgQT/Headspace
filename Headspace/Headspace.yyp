@@ -1143,6 +1143,14 @@
             }
         },
         {
+            "Key": "a9699b0a-7c42-493b-ab74-ae71496779c4",
+            "Value": {
+                "id": "149c3d43-e739-4d5d-9683-b30aa802b746",
+                "resourcePath": "rooms\\rm_brainfinale\\rm_brainfinale.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ab2586a8-9ce0-4e00-8da6-7ddd4b2b739b",
             "Value": {
                 "id": "e87d1fe4-222f-46d6-bbcf-970da28a6b83",
@@ -1274,7 +1282,7 @@
             "Key": "bf32e1b6-3cac-4c05-a4a0-7f13c7adc494",
             "Value": {
                 "id": "d81f91a4-0821-4d32-9cd4-c4db014e0058",
-                "resourcePath": "sprites\\s_plushie\\s_plushie.yy",
+                "resourcePath": "sprites\\s_doll\\s_doll.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1492,6 +1500,14 @@
                 "id": "5595f784-1205-4348-84d3-291837e363f7",
                 "resourcePath": "sprites\\s_pizza2\\s_pizza2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd75f729-2da9-4a4e-8ed7-c92a3cfd015a",
+            "Value": {
+                "id": "ef413476-ddc7-4893-976d-b6a149103088",
+                "resourcePath": "sounds\\snd_collect_item\\snd_collect_item.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "obj_pill_pickup",
     "eventList": [
-        
+        {
+            "id": "9c2a14c5-8159-4920-bf94-838fcd0d37ea",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d3179402-da97-437f-9528-82446df29445"
+        },
+        {
+            "id": "6ba23c40-e3fa-4194-8418-ecc050c66c81",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "d3179402-da97-437f-9528-82446df29445"
+        },
+        {
+            "id": "898e5def-3c8c-4feb-88ef-213e2679b0fa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "d3179402-da97-437f-9528-82446df29445"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

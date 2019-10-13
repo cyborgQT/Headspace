@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_stomach2",
     "eventList": [
-        
+        {
+            "id": "08363f94-0e52-430b-a29e-1817cc061b4a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "0b0c7c42-3aa1-4845-b50f-2ed6a8878eea"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

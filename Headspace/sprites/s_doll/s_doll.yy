@@ -2,7 +2,7 @@
     "id": "bf32e1b6-3cac-4c05-a4a0-7f13c7adc494",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_plushie",
+    "name": "s_doll",
     "For3D": false,
     "HTile": false,
     "VTile": false,

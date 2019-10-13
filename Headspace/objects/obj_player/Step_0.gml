@@ -17,5 +17,7 @@ if _x_input == 0 and _y_input == 0 {
 sprite_index = sprite_[player.move, direction_facing_];
 move_movement_entity(false);
 
+initialize_quests();
 scr_who_we_talkin_to();
+
 

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_bathroomlung",
     "eventList": [
-        
+        {
+            "id": "ec45c6b9-0f70-4823-b8d4-3c6d3117dd63",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "59b8a77c-e3db-47f1-88e4-2a4d6c69307a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

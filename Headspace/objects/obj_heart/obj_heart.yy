@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_heart",
     "eventList": [
-        
+        {
+            "id": "d0b4e78b-f10f-482e-a9ad-67d501215045",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "53ea98f6-cfa1-4969-8777-52e3826b207d"
+        },
+        {
+            "id": "6369d255-9e08-435c-93aa-382dae394401",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "53ea98f6-cfa1-4969-8777-52e3826b207d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

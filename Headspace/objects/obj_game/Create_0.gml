@@ -6,11 +6,14 @@ global.player_start_position = noone;
 
 audio_play_sound(snd_theme,1,true);
 
-global.doll = true;
-global.pill = true;
-global.inhaler = true;
-
 create_inventory(3);
-inventory_add_item(obj_pill);
 
-initialize_quests();
+global.player_doll = 0;
+global.player_pill = 0;
+global.player_inhaler = 0;
+
+global.doll_quest_complete = false;
+global.pill_quest_complete = false;
+global.inhaler_quest_complete = false;
+
+global.inhaler_to_closetlung = false;

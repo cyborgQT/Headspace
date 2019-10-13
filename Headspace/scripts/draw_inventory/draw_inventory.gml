@@ -10,6 +10,6 @@ for(var i=0; i<array_length; i++){
 	draw_sprite(s_inv_box,0,box_x,box_y);
 	var item=global.inventory[i];
 	if(instance_exists(item)){
-		draw_sprite(item.sprite_,0,box_x+5,box_y+5)
+		draw_sprite(item.sprite_,0,box_x+5,box_y+5);
 	}
 }
