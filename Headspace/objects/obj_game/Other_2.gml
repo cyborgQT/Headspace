@@ -1,1 +1,1 @@
-room_goto(rm_brain);
+room_goto(rm_title);
