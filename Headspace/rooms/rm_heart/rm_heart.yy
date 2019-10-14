@@ -172,7 +172,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Items",
+            "name": "Pills",
             "id": "146c37e8-dba0-4f75-8284-c265e9c8cb3f",
             "depth": 400,
             "grid_x": 32,

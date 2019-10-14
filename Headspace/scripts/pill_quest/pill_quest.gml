@@ -2,6 +2,7 @@ if global.player_pill = 0 {
 	if keyboard_check_pressed(ord("Z")) and !instance_exists(obj_dialog) {
 	if place_meeting(x+4, y+4, obj_stomach) or place_meeting (x-4, y-4, obj_stomach) {
 				scr_dialog(dialog.stomach);
+				global.talked_to_stomach = true;
 		}
 	}
 }

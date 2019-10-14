@@ -143,7 +143,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Items",
+            "name": "Inhaler",
             "id": "eb0ee947-4788-4e3d-ba55-ba1f01d9f76f",
             "depth": 400,
             "grid_x": 32,
