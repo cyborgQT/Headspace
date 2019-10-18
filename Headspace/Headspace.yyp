@@ -1367,6 +1367,14 @@
             }
         },
         {
+            "Key": "c810722f-770a-483b-b574-86c1fc15a427",
+            "Value": {
+                "id": "3326f1f5-1cb5-407f-a142-aeb800893265",
+                "resourcePath": "scripts\\inventory_destroy_item\\inventory_destroy_item.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c86729bc-1eb7-41ca-a3c7-fa95f3464a52",
             "Value": {
                 "id": "96b9f913-2737-440f-b13e-fe65a2935c0e",
@@ -1804,6 +1812,7 @@
         "066ff43c-13dc-4a6c-8eec-0cc08d330168",
         "6df81cf2-d561-4bb1-b5cb-2563109c6d11",
         "fce37d99-46e2-4903-84eb-0d7651e2f43a",
+        "c810722f-770a-483b-b574-86c1fc15a427",
         "9facb32e-a52b-4ce4-9799-2e77a7ad23eb"
     ],
     "tutorial": ""

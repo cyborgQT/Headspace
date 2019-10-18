@@ -1,0 +1,1 @@
+inventory_destroy_item();

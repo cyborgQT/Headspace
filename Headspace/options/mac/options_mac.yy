@@ -23,7 +23,7 @@
     "option_mac_resize_window": false,
     "option_mac_scale": 0,
     "option_mac_signing_identity": "Developer ID Application:",
-    "option_mac_splash_png": "C:\\ProgramData\/GameMakerStudio2\/Cache\/runtimes\\runtime-2.2.4.364\\BaseProject\\options\\mac\\splash\\splash.png",
+    "option_mac_splash_png": "${base_options_dir}\\mac\\splash\\splash.png",
     "option_mac_start_fullscreen": false,
     "option_mac_team_id": "",
     "option_mac_texture_page": "2048x2048",
