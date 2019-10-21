@@ -20,4 +20,3 @@ global.inhaler_to_closetlung = false;
 
 global.talked_to_heart = false;
 global.talked_to_stomach = false;
-global.talked_to_lung = false;
