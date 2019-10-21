@@ -17,3 +17,6 @@ global.pill_quest_complete = false;
 global.inhaler_quest_complete = false;
 
 global.inhaler_to_closetlung = false;
+
+global.talked_to_heart = false;
+global.talked_to_stomach = false;

@@ -1,0 +1,2 @@
+//Testing global variables
+

@@ -103,6 +103,10 @@ switch (argument0) { // run through possible scenes
 		obj.msg[2] = "You're too kind.."; // message
         obj.xx[2] = obj_closetlung.x; // dialogue position (middle of box/pointer) x
         obj.yy[2] = obj_closetlung.y - 85; // dialogue position (bottom of pointer) y
+
+		obj.msg[3] = "P-Please before you go, let them know I'm fine.."; // message
+        obj.xx[3] = obj_closetlung.x; // dialogue position (middle of box/pointer) x
+        obj.yy[3] = obj_closetlung.y - 85; // dialogue position (bottom of pointer) y
 		
 		break;
 }
@@ -116,6 +120,10 @@ switch (argument0) { // run through possible scenes
 		obj.msg[1] = "I'm so glad she's back.."; // message
 	    obj.xx[1] = obj_heart.x; // dialogue position (middle of box/pointer) x
 	    obj.yy[1] = obj_heart.y - 85; // dialogue position (bottom of pointer) y
+		
+		obj.msg[2] = "I couldn't bear it if she thought I'd forgotten her."; // message
+	    obj.xx[2] = obj_heart.x; // dialogue position (middle of box/pointer) x
+	    obj.yy[2] = obj_heart.y - 85; // dialogue position (bottom of pointer) y
 		break;
 }
 	   

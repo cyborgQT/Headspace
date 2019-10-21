@@ -2,7 +2,7 @@
 {
     "name": "rm_mouth",
     "id": "6d056c3e-6967-4a52-a16c-3c588d59edb3",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

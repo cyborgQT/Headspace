@@ -13,13 +13,12 @@ if global.player_inhaler = 0 {
 	}
 }
 
-if global.player_inhaler = 1 {
+if global.player_inhaler >= 1 {
 	
-	if global.inhaler_to_closetlung = true {
+	if global.inhaler_to_closetlung = false {
 	if keyboard_check_pressed(ord("Z")) and !instance_exists(obj_dialog) {
 	if place_meeting(x+4, y+4, obj_bathroomlung) or place_meeting (x-4, y-4, obj_bathroomlung) {
-				scr_dialog(dialog.bathroomlunghappy);
-				global.inhaler_quest_complete = true;
+				scr_dialog(dialog.bathroomlung);
 			}
 		}
 	}
@@ -30,8 +29,15 @@ if global.player_inhaler = 1 {
 				global.inhaler_to_closetlung = true;
 		}
 	}
-
-
+	
+	if global.inhaler_to_closetlung = true {
+	if keyboard_check_pressed(ord("Z")) and !instance_exists(obj_dialog) {
+	if place_meeting(x+4, y+4, obj_bathroomlung) or place_meeting (x-4, y-4, obj_bathroomlung) {
+				scr_dialog(dialog.bathroomlunghappy);
+				global.inhaler_quest_complete = true;
+			}
+		}
+	}
 }
 
 if keyboard_check_pressed(ord("Z")) and !instance_exists(obj_dialog) {
