@@ -1,0 +1,271 @@
+assets: 
+  - "sprites | GMSprite | 4ae5b13a-b379-4bbd-a037-a3da8bcf2983 | aae3102e-1763-486d-ae77-4e86a864de6a": 
+      - "Player Sprites | GMSprite | 0aa18a17-d339-4533-8ba9-c0f7b59607eb | f1d13bea-f545-4de3-9a04-4a0433ff2edd": 
+          - "?s_player_right | GMSprite | f6dc0fb1-90b0-48bb-9892-b0110c8fc47c | 553d2c00-db59-4275-bddc-e267ef451cd9"
+          - "?s_player_left | GMSprite | fdb79c1a-04ad-4cc0-a9e1-3d190ceea418 | 70b2cc2a-e6b0-42cf-abaa-11ae790beeba"
+          - "?s_player_up | GMSprite | e4120d4b-5f4d-4b53-8976-9eaffa29e78d | ee882da7-535c-4608-bf96-dae6837d721a"
+          - "?s_player_down | GMSprite | a540cac6-2ec7-47ce-9bf1-9ac5b0dd0371 | 6033b158-2271-43e6-9f02-0baf4710e4be"
+      - "Brain | GMSprite | 29462727-0da0-4eb6-a472-075d9b491a60 | 1598e5fc-02e2-46a3-aab4-39c3436de3f6": 
+          - "?s_trash | GMSprite | 67730c51-0388-4bb9-8e13-fc2a26ca993d | 248ea0c3-6b0f-46a3-b437-2fe22df4859d"
+          - "?s_human | GMSprite | 8b4bd5d4-c4fc-4b03-a728-d8eb50d5952c | e0c066de-bf9a-4fa7-a190-63aada98bb6b"
+          - "?s_rug | GMSprite | cf0ed759-ce4c-4a6b-921f-71c0d4d5de11 | 51f2e335-db42-49db-b094-9ac902645b89"
+          - "?s_brainrm | GMSprite | 49e25f57-7515-4735-929f-040729f7e0e0 | cb3f67c6-57d1-4971-a4ea-6c2c75e16f26"
+          - "?s_shades | GMSprite | 7b1f7547-b17d-493f-b494-306ea26c83a7 | 3319ba91-6378-4130-80ca-d47db468b6c4"
+          - "?s_paper | GMSprite | d559909b-0111-427c-8dc7-b35108dd2cb9 | 9ca2aed4-b088-4906-918b-26bec128ba01"
+          - "?s_papercrumple | GMSprite | 37cf2dcd-328b-4918-a686-c8e7000fcd32 | 875987b3-5beb-4536-afa3-0f5fe0ac9bbb"
+          - "?s_pizza | GMSprite | 83ab9877-0831-438e-87a7-17757e1c2173 | a94ac3fc-16c7-488c-9163-f74efac7af94"
+          - "?s_pizza2 | GMSprite | dd5def58-d788-498e-b458-05df736516d2 | 5595f784-1205-4348-84d3-291837e363f7"
+          - "?s_can | GMSprite | db276dc9-3874-462b-a064-b1694b139484 | 12179b66-4454-4fcb-804c-9b06e1b57165"
+          - "?s_can2 | GMSprite | efb9563c-252a-4d8c-8b21-f169a1045d45 | 626c8a30-6146-47be-89c9-1c31736d09d2"
+          - "?s_spill | GMSprite | c86729bc-1eb7-41ca-a3c7-fa95f3464a52 | 96b9f913-2737-440f-b13e-fe65a2935c0e"
+          - "?s_desk | GMSprite | 65f0fc5c-f39f-4612-9d1f-7740eb8c1532 | 574ce858-b427-4736-a791-e741468dc63b"
+      - "Mouth | GMSprite | 3df49e10-bd4f-4d3d-9ed0-6ed3424a85b6 | cf8efad9-4dc3-47e1-8cf2-bc2bfdaafd30": 
+          - "?s_shadesmouth | GMSprite | 0b14433f-929c-4071-96bd-926d08758714 | 3a3df115-db89-4111-8b7e-9abc84ccd74a"
+          - "?s_tongue | GMSprite | ad7e3a95-9210-4244-a42d-93699cf8b3b4 | 0e3ebb0d-3830-4742-873e-f2b38fd0b3a4"
+          - "?s_couch | GMSprite | 3a292712-d7da-4e2e-94d9-113c9d3bc6ce | 7b2e3a9b-9564-4a09-a1cd-914496e514e4"
+          - "?s_tooth | GMSprite | 7cc75093-ebef-431f-af5c-0a0f1ae583b3 | cea06433-820c-4005-bfca-2d13a1285a92"
+          - "?s_tv | GMSprite | 3cc64eb4-e104-4a68-8eae-f4b16419e2dd | af3150f8-c92d-4e72-9f2f-aa993e27ba89"
+          - "?s_lamp | GMSprite | fdf91185-1305-4cef-a3ca-ae9e21386043 | f44b149d-06da-4fe2-ae0c-4bcce7e8593c"
+          - "?s_heart | GMSprite | ed92c77d-33fa-4757-a271-be90e84d1c1b | cecc97da-853c-4c00-9fb1-283798563734"
+          - "?s_stomach2 | GMSprite | 5a9cee11-1ffa-4b03-963c-50a8fefa2dc1 | ef17a066-6bff-47e5-b63b-120823dfb95c"
+          - "?s_lungs | GMSprite | 95248ee7-bdba-4d68-ab00-664066b5d66e | 1b02a8d2-6d9d-46cd-a522-203f433df24f"
+      - "Heart | GMSprite | d98855d7-387c-4647-bb18-c4487f1ebb50 | 75b66c3f-c957-4ade-9fef-ecf3cd9fda99": 
+          - "?s_heartcry | GMSprite | 27ac08b9-b31e-4f19-94ba-022d28dcfa4d | 756e95d2-b8b2-4341-a408-cbfcd37562e1"
+          - "?s_bed | GMSprite | 509f9d39-2670-4ad9-8975-0b66ca1e078a | c9ec3ae6-551c-43de-a03a-1beabfb719bb"
+          - "?s_heartrug | GMSprite | f5145f7e-d253-430e-9ac6-50523c6a5616 | 9af0bb1f-e983-44c5-90d2-ab6ef160e6b9"
+          - "?s_heartrm | GMSprite | 8b04ddea-0060-4961-9d3e-2576665d3bac | 40b4e51b-280d-4bd1-b762-c19c82df2a8e"
+          - "?s_posters | GMSprite | 9aca87b6-211a-41c1-8238-56c0129fd4b9 | 1d4797f9-2b73-4c03-80ee-27ee2ceb7b4d"
+          - "?s_bookshelf | GMSprite | 9c4e96ab-04a6-4c11-bcab-3cf45b42e1aa | 522faa13-ff43-4be2-a236-28e22981f717"
+          - "?s_pillowpile | GMSprite | 931d0193-2bd9-4498-b582-b9ea52d507d0 | e8e184af-b2ac-4e5d-a3d3-00148c14e123"
+      - "Bathroom Lung | GMSprite | 7fcd3ef0-207a-4c5d-b465-a2bf1f7899bc | 90d17ae8-b37b-48a4-94cf-686ce4d8762e": 
+          - "?s_sink | GMSprite | a620372d-1887-47f0-af44-f9c62a3f3cfc | 284d8d6e-bc6e-472e-8a8f-29a9aa0f37f3"
+          - "?s_bathroom_rug | GMSprite | 3ab6456e-d392-4e2d-8d74-c156a16c8828 | a0df8973-264a-43da-bc40-d7ef146b2fca"
+          - "?s_bathroomrm | GMSprite | b1cbb2b9-14a8-4d85-9a35-91b371b72c7a | 01ae95c7-2791-4747-a2f3-e76b688ab6c4"
+          - "?s_shower | GMSprite | c449c765-75c0-4bce-9ca8-fc41d0b3241b | b79f137e-e7e4-4955-9992-c376756941ab"
+          - "?s_bathroomlung | GMSprite | 59c438fb-0702-4597-a45e-b38434b9b57a | bb168e14-9706-49bc-9144-e083c4751a9a"
+          - "?s_toliet | GMSprite | 4df8b8a9-8947-42ce-afdf-c9e1f0928139 | 5855b7f6-e9b4-4912-b610-fddd4954d4c4"
+          - "?s_shadesbathroom | GMSprite | 92395fab-521b-4fd4-96e7-e939a8bd3777 | 88814a06-035d-4f3d-aad9-e0ef13f0fc82"
+          - "?s_mirror_image | GMSprite | 69d98256-b8be-46ef-8b75-b970f633a25e | e1bcf75d-9b21-46c6-be13-31db42d5639c"
+      - "Closet Lung | GMSprite | 22d841e0-5a7a-471a-8b4b-1e96d56b8d31 | 6642a2fa-c594-496b-8398-c705fc3f74e1": 
+          - "?s_clothes_end | GMSprite | 8d88b644-6571-4932-9e9f-1ecc306ebf27 | dccb79c0-84fd-4db3-8d27-8179488a7841"
+          - "?s_clothes | GMSprite | 1c8a1d42-8a93-45bd-b609-58018d40822b | dc5a5295-9c23-4b4a-8a1f-0b3c5cb7cfb1"
+          - "?s_clothes2 | GMSprite | 13fff3a0-6483-42ac-b08d-88d1619b7d6b | 42fd4fa3-da45-48d2-9b14-a8e42b10d897"
+          - "?s_clothes3 | GMSprite | 0bacbe1c-671e-4a4c-8180-8e1e5436288f | 205aebcf-f059-4165-a299-7b08615a7974"
+          - "?s_box | GMSprite | 9867e0e4-f85d-4664-b848-afe3540d4068 | 90eca04c-6ef9-4384-ac44-f6cba1000445"
+          - "?s_closetrm | GMSprite | 52cc0bc6-afe3-44ee-b7df-bf460cad2032 | 1350a5a5-4190-4ba1-a06f-713dff9ff58d"
+          - "?s_shoebox | GMSprite | 62534dc3-12d9-40a5-a6ef-d6acacb9d35b | 36947d34-bb6d-4cc9-b9f2-a985d7f4b34c"
+          - "?s_shoe | GMSprite | 7007d5ff-4bf4-4874-a97c-76e8c565beb7 | aedd9cfd-83a0-41f8-89aa-08e611270d22"
+          - "?s_closetlung | GMSprite | fe5036e7-7c51-4ff8-8b2a-252664450b4e | e7bec700-e9f7-4f6a-bab3-b385e1d44016"
+      - "Stomach | GMSprite | cb6c0131-db7d-43d0-8891-f1ed15f9db45 | 4a1fb20c-df58-4bee-8aa7-c6d5c6aee4b9": 
+          - "?s_counter_m | GMSprite | b11a85a0-f7df-4add-bf65-905e32e7f517 | 33fabe59-4466-4866-b82e-088609667bb6"
+          - "?s_stomachrm | GMSprite | 41523077-d31d-4853-bca3-51dcbd934d18 | 5322f5b1-4be3-4e1d-b6ba-cae152d1bfbc"
+          - "?s_stomach | GMSprite | f1bd03e3-33d8-406c-aa88-0f5a4347ad48 | ca7bccdc-5d9e-4044-a00f-dd500842c202"
+          - "?s_counter | GMSprite | d0b823d1-c8a3-4aa1-95d4-374002c8e0b3 | 7f58b1b3-397d-45fb-b526-91fbef7e48ca"
+          - "?s_table | GMSprite | dd4971bf-a365-406d-8053-260f676ae5f4 | e41fe842-b0c3-4a8f-86a2-f26c18d52cf8"
+          - "?s_chair | GMSprite | bd089fd5-793d-45c3-8445-2d938f0f59b1 | c5a57aa0-6683-40e5-b9f9-89dadedcf5a4"
+          - "?s_cookie | GMSprite | 1ad01100-4c8d-4520-840d-a665074b462f | f9d5d806-37a9-4d33-90f5-dc456cace4b5"
+          - "?s_cookies | GMSprite | f9ae8392-9eba-4a0d-9f7a-7337dd7a9733 | 64bdea02-f262-4a7d-a8d6-11a67f05d736"
+      - "Nerves | GMSprite | db500759-1138-41aa-84c1-c35aaa290d13 | 425fe8a8-61de-4ff6-8ec7-7976e092c471": 
+          - "?s_nerve1 | GMSprite | 1789086a-3934-4f0d-adc1-ebfede0e96ec | dcb42ca0-d5a8-4811-97f1-0a63c38a60ce"
+          - "?s_nerve2 | GMSprite | 9a320bd1-48ff-4889-8890-7c2797ea378e | 85b46de9-57a1-4772-9c39-839e34e88994"
+      - "Doors | GMSprite | 96e123e2-293d-43d1-b2ec-e185470c507d | 97bd741e-4fcb-485c-a9c7-fb7215a580eb": 
+          - "?s_sidedoor | GMSprite | 6b05bb5e-54b5-4d17-83f9-17bfa45c7592 | 5fc0c36d-51ff-48ad-b80b-8a4cb08a6fd1"
+          - "?s_sidecheating | GMSprite | 5295ac3b-7a78-41c2-9d10-25a10b0be040 | 2c633804-55c9-4fb4-88eb-aea3bfdab99d"
+          - "?s_frontdoor | GMSprite | 33ce112d-633f-42fe-94e3-72de9b0a42ca | 1fa4870d-ad6d-48e5-a8e0-135b4c782440"
+          - "?s_frontcheating | GMSprite | 5067a4e6-4f13-4c0b-bdf9-9a03354c375e | c4429cfc-aca6-4a3c-ae06-6453d06a2781"
+      - "UI | GMSprite | fe436fdd-d3ca-4f7c-80d2-f2424d9095e6 | 14d6a29f-416d-44e5-a7a5-6ae3e21f4514": 
+          - "?s_title | GMSprite | b2f79f17-cf7c-46b8-8d1d-4e502a7ecb07 | 25a9dd82-3b76-4b1d-99ec-4c08bc12f287"
+          - "?s_credit | GMSprite | 70252fa1-5707-43ac-acc3-38366669bb32 | 4804cfa8-dee0-4a7c-afb9-0a32f94b947e"
+          - "?s_controls | GMSprite | 6eab6787-42b0-4070-a78e-cd3263c3711e | ae6da760-ed7f-4ce3-a5b5-85555a4ed7bd"
+      - "Helper | GMSprite | e7860c6a-486a-494b-8714-5b3da5137b4a | 4fe4ed47-3d4d-4435-83df-fe6c38872dbb": 
+          - "?s_shadow | GMSprite | 2bcf89fd-9ba6-470a-99fd-02b581024df6 | 0f71988d-0eb1-48d3-9a66-754f28d6a768"
+          - "?s_start_position | GMSprite | 7459fc90-885e-4fcb-9d3e-196e15d73d88 | 47808ce5-5d66-4b53-b850-0ac361044dd6"
+          - "?s_end | GMSprite | c25ebe41-9333-4d2b-b117-9caf5e30504b | d10018c1-6f49-480c-bbc1-0a29db3b833b"
+          - "?s_solid | GMSprite | 6cefd188-9662-4577-890c-390c42a1f9fd | df537c40-b3c0-446c-812f-9ac7f89bcf31"
+          - "?s_npc | GMSprite | 39b26781-d825-4110-b8d3-61f4abdf2529 | 48490cd3-13e4-4f97-ac5e-7106820544ee"
+      - "Inventory | GMSprite | b688ac21-c703-456c-a0c6-a230c1b3dada | 021c2a93-2770-4023-be09-9b3ae1411c12": 
+          - "?s_doll | GMSprite | bf32e1b6-3cac-4c05-a4a0-7f13c7adc494 | d81f91a4-0821-4d32-9cd4-c4db014e0058"
+          - "?s_pills | GMSprite | adde4239-628a-46e3-9756-f63b956cb20b | dd623bd4-b15d-4874-a516-cd33c70e73d7"
+          - "?s_inhaler | GMSprite | 0c108603-912c-4a9c-9a55-abf3a5d42d4c | 2a1c82ca-eeae-47f9-92fb-67d7fd46c505"
+          - "?s_inv_box | GMSprite | c55f949c-86b5-40b9-a8e1-f15d7f7d8056 | 00f285fd-492d-4ad7-bc51-d7025fb37332"
+          - "?s_inv_box_closed | GMSprite | 2ec2eda8-62c9-4aa6-8720-94829e9830d7 | f5c4ecee-b51d-467b-a1ad-fa63d93e331b"
+      - "Items | GMSprite | 87f11265-9241-4736-97b3-e35825c0a12d | 07473f90-32ab-4c92-abcd-e2b02a0737cb": 
+          - "?_s_doll_pickup | GMSprite | 90f41760-eabf-4ace-b626-b431c02a74ad | 863a1825-26c6-4c07-ae41-66b8c2c2a363"
+          - "?s_inhaler_pickup | GMSprite | b7e95043-c194-435f-b1ba-ae07f2cf98ef | a768a7b8-c932-493c-9b95-ba1dc962b359"
+          - "?s_pills_pickup | GMSprite | 2f3b35f5-903a-47f4-95c0-db6e0e3774b2 | c71f7157-f7ab-48ec-858c-61ced8c2e233"
+  - "tilesets | GMTileSet | 687ecd38-d30b-4a55-8f2d-4143e47750f6 | 49be2f1f-f7b0-44f2-aee7-e0fb24adb99a": []
+  - "sounds | GMSound | 189fedf4-0675-4815-97a2-9a79e69b3493 | 3392dabd-45d3-466d-a682-f27666e4e898": 
+      - "?snd_theme | GMSound | ce34a208-0537-439f-ab23-d3b6806fe494 | b5f5fd97-5c71-4da3-9f7e-f90554448163"
+      - "?snd_collect_item | GMSound | dd75f729-2da9-4a4e-8ed7-c92a3cfd015a | ef413476-ddc7-4893-976d-b6a149103088"
+  - "paths | GMPath | 2748115d-b5fa-4b25-8a8d-f43a284ad97f | 9ebef73f-63a1-4d05-ab7c-f75ad759b346": []
+  - "scripts | GMScript | eabae027-1863-40e5-a540-8135cbdec71c | 7e387ff6-4010-4b96-b134-2c8bad20b7bc": 
+      - "Movement Scripts | GMScript | 5e423061-87c8-4330-932b-92971cca7b7a | 6238890e-4d46-4bbf-ac8d-2ee4f1faa720": 
+          - "?initialize_movement_entity | GMScript | 58d673b5-5eeb-4837-bdd6-810f5b1eeea9 | c260a32a-7a62-4f99-b629-8e7cac197223"
+          - "?move_movement_entity | GMScript | 78deea04-4e4d-4d98-9d61-1e251feee640 | 0b2a0ab8-4ab1-4512-bdbc-0f2d23a6d05b"
+          - "?set_movement | GMScript | 2f57f718-6132-49d7-92b0-fad512ab57ec | 0e1dc5af-0bc7-4f73-b916-6df11c7ea6e4"
+          - "?apply_friction_to_movement_entity | GMScript | d505ab3a-2a93-4577-823e-15195d53307e | 9cbbb5da-6743-49cf-b6fb-46a6ae183a4c"
+          - "?add_movement_maxspeed | GMScript | ea6c31a3-c2bc-4a07-8065-5dd6449754eb | b176e1dc-a1f3-477d-9f94-83cee58cd073"
+          - "?get_direction_facing | GMScript | 9fd9c16c-5d7e-4bd4-b82e-232dcb1b8d5c | 08ac7d32-fa79-4d04-bd28-a7c59d4c79b3"
+      - "Helper Scripts | GMScript | aefeb16f-81cb-4a83-bebc-0d84cf479d81 | 53d1891e-a45d-4112-9596-6c3d692edc51": 
+          - "?depth_correction | GMScript | 9957a208-35c2-4946-a97d-b1c283c8475c | d443fa6e-77ee-49e7-bc8c-89b85815d2a4"
+          - "?approach | GMScript | ebf15ea5-c04a-4d97-898c-67939e14494a | 96e493ad-23a5-4940-8a76-bbc6c9049933"
+          - "?round_n | GMScript | fe194fe7-62aa-432b-9881-fffe80651f6f | 3b689c37-9b03-4a79-af74-6b27776a2fca"
+          - "?draw_shadows | GMScript | ef8bfb96-ac45-43dd-9d5f-23a9c6358b33 | 7b5aa096-6f52-44d9-8229-aafc9cb506e0"
+          - "?singleton | GMScript | fca54073-ba6f-4d15-8ea8-19bde19fb107 | e7b54b23-9f58-4148-a110-abb34ff0929f"
+          - "?array_find_index | GMScript | e4eeac30-df14-482b-bd1b-b38ab89d24f7 | 88b0bd65-10ca-4f6e-990a-05089f2219b1"
+      - "Dialog | GMScript | a1ecf18f-3de6-43c1-b7a0-afe8296bada4 | 61771adc-26de-484e-877d-1ae709d668df": 
+          - "?scr_dialog | GMScript | e8d8d2c7-db36-4ded-afff-d1eb2d7e135e | 5eacfdf3-e3df-49b4-8868-fb20aaa46c76"
+          - "?scr_who_we_talkin_to | GMScript | 80aca063-9933-4d05-b029-c4c68999da4f | 40d2cf7a-091f-4f2d-ba8e-6ed4089ba883"
+      - "Quest Scripts | GMScript | a64560d6-cb20-4f3f-a037-8cffe7656a0b | 410f90f4-3bb7-4593-9c6e-f8680c29623b": 
+          - "?initialize_quests | GMScript | ddfd6ece-47fc-449b-ba32-5a7d63c1182f | 9efaf7ba-5e3e-410c-a677-03deb08a8240"
+          - "?inhaler_quest | GMScript | 190c8474-8d12-4c13-a7ea-975b89a1476a | a19a094c-8707-43f1-be98-42ede6604386"
+          - "?pill_quest | GMScript | d27cc8df-be6d-4363-8042-3967ce015a00 | 52e48601-5012-49bf-86b6-9eb0ef4754e3"
+          - "?doll_quest | GMScript | 066ff43c-13dc-4a6c-8eec-0cc08d330168 | 35a3bad0-f25d-40f7-913a-a84a8c718761"
+      - "Inventory | GMScript | 2a104a89-463d-413a-a3ae-b9343dd76c71 | 47c5fa17-22ff-4658-bdbc-d6a3e35dc358": 
+          - "?create_inventory | GMScript | 6df81cf2-d561-4bb1-b5cb-2563109c6d11 | 0be067cd-280f-4858-b2ff-b0d25b6cdb7e"
+          - "?inventory_add_item | GMScript | fce37d99-46e2-4903-84eb-0d7651e2f43a | f5037a39-ec26-496e-9349-2f29693e12ee"
+          - "?inventory_destroy_item | GMScript | c810722f-770a-483b-b574-86c1fc15a427 | 3326f1f5-1cb5-407f-a142-aeb800893265"
+          - "?draw_inventory | GMScript | 9facb32e-a52b-4ce4-9799-2e77a7ad23eb | 7e5f4d3c-4580-4bd5-ba3a-f0a96cba11d2"
+  - "shaders | GMShader | c765375d-ac1f-404e-b2fc-ba1d7bf2f092 | b2f41120-3c5f-4cba-89ce-fccc27e40db2": []
+  - "fonts | GMFont | 156c7b05-784b-4193-88a9-aede3b59021a | 120efa2e-7ce4-4fcc-a11a-cc7ddd88fb52": 
+      - "?ft_dialog | GMFont | dfffe6af-b3a0-4ab0-8031-b13490aaf811 | a6092901-1ff0-4f61-bbe6-1449c78dc3f8"
+      - "?ft_title | GMFont | 6e2681d6-f7b7-4ed1-9123-53b144d8618d | a22d629b-7ed0-4723-bc81-3759c28b3bdc"
+  - "timelines | GMTimeline | 4ddb433b-83b4-40b0-b64e-e96c365272b2 | 5f68cdc8-4911-43ae-9fba-d6bd85b40379": []
+  - "objects | GMObject | b03b1318-7220-4250-8057-ff34b851b44b | 679911df-0a41-4b58-a35d-cdc67d64b77d": 
+      - "?obj_player | GMObject | f8d3803a-9301-4389-aabc-e7aa3b4fab70 | 20429431-1c74-4fb8-8a27-92b5d234b440"
+      - "?obj_game | GMObject | 6764eb1a-b93f-4263-a5d3-bd3fc4cd1047 | 7d779d91-20ad-4ba1-b9a3-f4aa4493abaf"
+      - "Brain | GMObject | 8062f4f4-8822-4ec8-be7f-7f98f43f4b24 | f11a6429-0264-4a88-a4da-a89ee5add532": 
+          - "?obj_human | GMObject | 7db32399-4411-4542-ad6f-ed4b616f4435 | 5c80e546-a805-4283-9366-e0e9cd0430a4"
+          - "?obj_pizza | GMObject | 93bcfe93-4769-4071-bb12-403bfaf0e8ac | 15cc9334-0bff-4e22-95ea-bc88b8312f7f"
+          - "?obj_pizza2 | GMObject | 6212a70c-3bf3-4f22-bc93-6b98137aeab2 | 10073a37-8031-4c6a-81d3-fb0fcefb4ed5"
+      - "Mouth | GMObject | 7a74dd48-a5e1-4277-b041-542fb2995c46 | 1a6b17a1-437f-4efc-a4d0-4a7e08ea1909": 
+          - "?obj_couch | GMObject | 3d6f8654-d5db-47c1-bb11-ea50e3b58335 | a8882f81-8ec4-4524-839a-b6fe89328d6b"
+          - "?obj_heart2 | GMObject | 91f9f39b-fa19-46e4-8cad-d592127437a8 | 209f0d0c-952c-4c50-aa8d-10983b7cc61e"
+          - "?obj_tv | GMObject | a71bc532-11cd-405f-9593-ec04be447339 | 6895b01e-62a0-403b-b564-4aa786d8e607"
+          - "?obj_stomach2 | GMObject | 0b0c7c42-3aa1-4845-b50f-2ed6a8878eea | 374a3b52-54e2-483c-a56f-3f8613e9c5f1"
+          - "?obj_lungs | GMObject | 5826d5ff-e7ff-46d4-9d4d-a7daa0c520e3 | a20203b0-9a2a-45e9-be02-2950adf42d03"
+          - "?obj_pillow | GMObject | fc709ab1-8bc6-4826-9ada-0f44885c66bf | 612708d7-e77d-4a11-9095-09ee88754dbb"
+      - "Heart | GMObject | 717b009a-efbb-4a62-9a9a-af3ff7c9965b | 57c251a7-c6a7-48ce-bafa-6c5d492cf925": 
+          - "?obj_heart | GMObject | 53ea98f6-cfa1-4969-8777-52e3826b207d | eb476117-37b1-4a18-a199-29ccadf9cd75"
+          - "?obj_bed | GMObject | abb8155b-2716-4afe-805e-6d2de4832d9e | f30e7cab-639d-49b0-80cc-62810948a0fb"
+          - "?obj_posters | GMObject | a0e4088c-16ab-45d9-87c0-b3a49ac6318f | 2cea5480-8586-4159-aee5-c86bcb71a384"
+          - "?obj_pillowpile | GMObject | 31594814-a23f-4473-9f50-655c2bd53c3a | 07f10d7c-33c6-4dbe-bbc4-1998d252e421"
+          - "?obj_bookshelf | GMObject | ee5a8852-b7c3-4ae8-bf4d-78b78e0c6159 | e7bfc75a-4bfa-44ea-a083-719ff6176472"
+      - "Bathroom Lung | GMObject | 05c4f665-8db5-4ef0-acce-e602289dce2a | 7eb256b7-e256-40a3-a5e9-e8a1929f225d": 
+          - "?obj_sink | GMObject | 766e9100-73c2-4da0-8d86-5ab7b8f7cbd7 | e303c5fc-bd6d-4aeb-8809-92692f7503c0"
+          - "?obj_shower | GMObject | 37053dfa-9176-4ef9-b549-a1e773319d68 | 61dc7519-c4d1-49e4-be83-e848777a0620"
+          - "?obj_bathroomlung | GMObject | 59b8a77c-e3db-47f1-88e4-2a4d6c69307a | 991117b0-ff9a-4571-b9e3-c8f984bc0efa"
+          - "?obj_toliet | GMObject | ad589236-1cf0-4f9d-8f1e-0438c92be600 | 4a5ce7a3-2ff7-400d-93f5-b85b36964386"
+          - "?obj_mirror | GMObject | c0c7dc67-755c-4d42-97b6-4cd65b94803a | 2157ca76-5e45-4bf7-9da4-c6f95ebcc476"
+      - "Closet Lung | GMObject | 1ed2dc53-4236-4454-8b12-cf2e1eb5a589 | 269b6fb4-a51a-44ed-9ed1-00e8f6f80fb2": 
+          - "?obj_box | GMObject | 98935b1b-df31-41a9-863f-957681980358 | 31ecf01b-b1d3-4f27-97f2-2f6ac366fb09"
+          - "?obj_shoe | GMObject | f1482165-dd20-47ae-827f-dc3989d5f49a | 8158e8a3-337c-4459-8bc1-d04d1834ec3c"
+          - "?obj_closetlung | GMObject | ecd84d12-16eb-438c-8ce0-c547608b6d40 | 729fab43-acce-4735-8c81-e886c7cb11da"
+      - "Stomach | GMObject | 81254fb7-8d9e-4405-95b3-5b7f201c33f4 | 50705550-2775-4a02-afc0-4674afcebe80": 
+          - "?obj_stomach | GMObject | 65e1e201-d48f-4159-a6e0-222685eb56dd | ae2737bf-8b14-4b5a-8ee4-c0ccf6b229f0"
+          - "?obj_counter_m | GMObject | f77af201-1f66-4c4a-9968-a524cc1f76da | 3c13a73a-3899-4737-836b-a02597894af6"
+          - "?obj_table | GMObject | 559fe706-15bd-4090-bc19-0de9ebbb6d9b | ac97d977-a1ee-4d37-91d7-b30f9256c82d"
+          - "?obj_chair | GMObject | d3133369-cf6e-4522-9807-a8bb84659dd3 | a16665d7-08e2-4d4d-8910-8fae5de84a67"
+      - "Doors | GMObject | 3d2d2ba1-129d-4ea6-839e-946ce019cbe8 | 511a86dd-a37c-4b4d-a589-9769213367d8": 
+          - "?obj_sidedoor | GMObject | 6a39e022-23e3-499d-a40e-821043d838d4 | 24968675-33d6-4927-b19f-b67d160f7c36"
+          - "?obj_cheating | GMObject | 24e12109-605a-4e2b-bd3c-ede686bdb1fd | dc3dd0da-0ce8-40d0-b695-5b313ccc361d"
+          - "?obj_door | GMObject | 99bb92df-138d-4452-bf3e-73db18b0f9d8 | 95b99b52-b693-4966-b90a-7e903d3bd9de"
+          - "?obj_frontcheating | GMObject | ab2586a8-9ce0-4e00-8da6-7ddd4b2b739b | e87d1fe4-222f-46d6-bbcf-970da28a6b83"
+      - "Helper | GMObject | cb702a9e-1c8a-4477-aaa1-347a30c2acac | 3227d429-3fc1-43a1-94cf-16a8df8b73c0": 
+          - "?obj_npc | GMObject | 63ba0249-822a-4bea-adbd-9061d10b44ec | c6f69b77-77d0-4a9a-8172-4c3fb473dd1b"
+          - "?obj_input | GMObject | 750cba36-2aa1-4b35-97fe-ae9288b580e7 | 9a16fab9-9523-45cc-8b5b-3d9871b0bf37"
+          - "?obj_camera | GMObject | 0ff75b06-e5a5-4b92-91ef-ba947166489f | c172198f-ba3c-48fd-98ab-22f7e1e492f2"
+          - "?obj_dialog | GMObject | 0e259316-fde7-4ae1-9094-bf72a12d8b4e | 812d5fb7-c49c-459d-a6d2-d49515a04a3c"
+      - "Items | GMObject | 37a9bc0a-3d1e-4af7-945e-7972246d8e0b | e7306132-1f3c-4de4-a090-06c25553ae51": 
+          - "?obj_pickup | GMObject | 760feaa5-e7a0-41ec-b558-9d285dd76246 | 7bbfe528-1fc1-4d55-afb3-7baf880fb9fa"
+          - "?obj_pill_pickup | GMObject | d3179402-da97-437f-9528-82446df29445 | bfcb303d-1a2e-40b9-9b1b-dc787b8e8962"
+          - "?obj_doll_pickup | GMObject | 854d8318-e5dc-42b7-9491-97b7e87ada04 | 52dda3b4-9edd-4cd3-8091-c3cfea6e0827"
+          - "?obj_inhaler_pickup | GMObject | 92a16841-10b2-4522-8168-c2d474c7ec83 | 07a4e5dd-2128-42c3-8025-39d9f8b78f45"
+          - "Inventory | GMObject | 97067d74-5924-463e-a5af-6461621ae57a | 363a3b3f-464e-4ebc-923c-159b26f16644": 
+              - "?obj_inventory_item | GMObject | 506656f3-61e0-4145-b3af-bdb8d96b0df5 | df6bbace-444a-4a97-be43-b3dc9098ffa5"
+              - "?obj_pill | GMObject | c6c4a3a6-79b8-4fd5-b848-f2571e07aefc | 707d7e48-3796-4297-9981-1bec811c1d7a"
+              - "?obj_inhaler | GMObject | 44ab8bd2-c4c8-41ee-8b03-0b39e13010d2 | 442daa2a-74a7-47ab-88ee-6a91f063f4ef"
+              - "?obj_doll | GMObject | dc33004c-54a5-4ff1-80eb-34bac4412420 | c5daccfc-4827-42db-bdc6-f0682ef43a6e"
+      - "UI | GMObject | b7d98821-fe2e-4e14-bce7-55ecfbb76ac9 | 41be2851-fafb-46e6-b838-d76995a549c6": 
+          - "?obj_title | GMObject | cdae46da-33ef-4c33-8f83-453b53da210d | 1d521668-8a3c-42b1-a592-aed9b475db92"
+          - "?obj_tutorial | GMObject | 293f6b54-0b59-4bd8-bcdd-f5af58c2bad5 | 51266f11-f6f0-4860-979a-aae20d7ed39f"
+          - "?obj_gametitle | GMObject | 1fc16bd9-8364-4297-9105-ada6155bd7e2 | ae2c7764-6e30-426f-b0ce-436cc614e6d7"
+          - "?obj_credits | GMObject | e102c498-9436-45cd-b5f6-a1910b8a73f4 | 947b0077-1f4d-4ec1-8b88-019fbd02256a"
+      - "Collisions | GMObject | c3438834-6ab2-4d1d-8ff6-3343b3e87d2c | 27f0e0ef-2173-4beb-b8e5-3092553984ec": 
+          - "?obj_solid | GMObject | 760ccc98-0d4f-40d8-b23c-cc6b3aa1c50c | 3e27ee21-a7ac-4528-b2a5-35b119a14007"
+          - "?obj_start_position | GMObject | 5e6740f2-b85d-4798-949f-d0fd396ddf10 | 3dc49ae4-51ef-4c03-aef4-7346b39fc381"
+          - "?obj_nextroom | GMObject | 23866484-f02c-4d6c-b2af-bb835e532cd8 | 77485322-36fa-426d-88de-0412490a8873"
+  - "rooms | GMRoom | 10334321-10a2-47fb-9aef-81bcd4c58e7c | aaceed2f-9f78-4cde-9b3a-df8d9fcee448": 
+      - "?rm_init | GMRoom | a04d49ee-2f7e-4a91-b629-59464d39627d | 351364d1-a3fe-439a-bd3f-17da74670b0c"
+      - "?rm_test | GMRoom | bea3d002-ecb2-43bf-afa9-b5a3ced0883c | a2602f51-1c1b-4dd1-af31-6197566bfdf8"
+      - "?rm_title | GMRoom | 58b5789a-275d-44d1-be3e-a387f567b69b | c0b00586-c787-42c9-b6b3-4ca9af385246"
+      - "?rm_tutorial | GMRoom | 6e04b701-9130-4f42-8551-5427935b7b96 | bf1c32d7-7b7e-4e0f-9ebc-cc8187adfd48"
+      - "?rm_base | GMRoom | 785731bb-4c49-4b0c-9f4a-bad4fedfc666 | b35676a7-c062-4199-858b-34290e240e47"
+      - "?rm_credits | GMRoom | 4cc11061-1996-4598-996e-d764517e50cb | 0afdad68-67ce-45d7-97c5-4eb45f201425"
+  - "notes | GMNotes | bc0e2dc3-4581-40c3-83ae-cba2f61d5d94 | 185e0fed-8e32-486e-a17e-3d4cd8110554": []
+  - "datafiles | GMIncludedFile | f8bd3467-8117-4942-84d3-4de0b62c8e9f | 3a8f7b4e-f5b9-43dc-9c37-cc7b6579b56d": []
+  - "extensions | GMExtension | 0304357c-0fd6-4613-88c2-e847b5e42fb3 | 9fa6e536-79b6-438d-916a-12a36db1bd49": []
+  - "options | GMOptions | 8539b429-24f5-4fa4-bd5c-bb36f0c70347 | 2e89493a-2314-48a1-83d6-816416d90993": 
+      - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 9a3fe3a4-d740-498c-9d4a-426927779c61"
+      - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | 7973c91c-c47d-41b7-83b1-3df130a20479"
+      - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | fde5b3c3-0193-44bf-8ccc-8b2c6ebd81de"
+  - "configs | GMConfig | c51f120e-1ab8-4ad0-9eee-e95fb6c53f4e | 69cac629-6e34-45e9-865f-60045b4477c7": []
+projectExtras: 
+  IsDnDProject: false
+  configs: []
+  id: "bde2ed27-936b-410a-baf8-72a5ea510ad6"
+  modelName: GMProject
+  mvc: "1.0"
+  option_ecma: false
+  parentProject: 
+    alteredResources: 
+      - Key: "ed6a955d-5826-4f98-a450-10b414266c27"
+        Value: 
+          configDeltas: 
+            - inherited
+          id: "0d0d67d1-6921-47b9-8fe7-9774bea52003"
+          resourcePath: "options\\main\\options_main.yy"
+          resourceType: GMMainOptions
+    hiddenResources: []
+    id: "3b0e6b9c-e89d-458b-8782-752d0f5c17a6"
+    modelName: GMProjectParent
+    mvc: "1.0"
+    projectPath: "${base_project}"
+  tutorial: ""
+viewExtras: 
+  "0304357c-0fd6-4613-88c2-e847b5e42fb3": 
+    localisedFolderName: ResourceTree_Extensions
+  "10334321-10a2-47fb-9aef-81bcd4c58e7c": 
+    localisedFolderName: ResourceTree_Rooms
+  "156c7b05-784b-4193-88a9-aede3b59021a": 
+    localisedFolderName: ResourceTree_Fonts
+  "189fedf4-0675-4815-97a2-9a79e69b3493": 
+    localisedFolderName: ResourceTree_Sounds
+  "2748115d-b5fa-4b25-8a8d-f43a284ad97f": 
+    localisedFolderName: ResourceTree_Paths
+  "4ae5b13a-b379-4bbd-a037-a3da8bcf2983": 
+    localisedFolderName: ResourceTree_Sprites
+  "4ddb433b-83b4-40b0-b64e-e96c365272b2": 
+    localisedFolderName: ResourceTree_Timelines
+  "687ecd38-d30b-4a55-8f2d-4143e47750f6": 
+    localisedFolderName: ResourceTree_Tilesets
+  "7f4fbfdb-6096-4f28-a095-34372919dd7f": 
+    name: "785731bb-4c49-4b0c-9f4a-bad4fedfc666-room"
+  "8539b429-24f5-4fa4-bd5c-bb36f0c70347": 
+    localisedFolderName: ResourceTree_Options
+  "b03b1318-7220-4250-8057-ff34b851b44b": 
+    localisedFolderName: ResourceTree_Objects
+  "bc0e2dc3-4581-40c3-83ae-cba2f61d5d94": 
+    localisedFolderName: ResourceTree_Notes
+  "c51f120e-1ab8-4ad0-9eee-e95fb6c53f4e": 
+    localisedFolderName: ResourceTree_Configs
+  "c765375d-ac1f-404e-b2fc-ba1d7bf2f092": 
+    localisedFolderName: ResourceTree_Shaders
+  "eabae027-1863-40e5-a540-8135cbdec71c": 
+    localisedFolderName: ResourceTree_Scripts
+  "f8bd3467-8117-4942-84d3-4de0b62c8e9f": 
+    localisedFolderName: ResourceTree_IncludedFiles
+viewRoot: 
+  id: "26d95e04-b0d3-4bfb-b335-2b4c3203aa2b"
+  mvc: "1.1"
+  resourceID: "9b69f738-2037-46fc-8439-a34bd79376d8"
