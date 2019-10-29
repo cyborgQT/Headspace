@@ -13,7 +13,6 @@ enum dialog {
 	 heartinmouth,
 	 stomachhappy,
 	 bathroomlunghappy
-		
- }
+}
 
 
