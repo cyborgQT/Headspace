@@ -874,7 +874,7 @@
             "Key": "80aca063-9933-4d05-b029-c4c68999da4f",
             "Value": {
                 "id": "40d2cf7a-091f-4f2d-ba8e-6ed4089ba883",
-                "resourcePath": "scripts\\scr_who_we_talkin_to\\scr_who_we_talkin_to.yy",
+                "resourcePath": "scripts\\scr_nonquest_npc_dialog\\scr_nonquest_npc_dialog.yy",
                 "resourceType": "GMScript"
             }
         },

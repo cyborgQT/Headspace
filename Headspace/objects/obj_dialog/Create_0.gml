@@ -9,7 +9,7 @@ max_width = 150;        // max width of text box
 inside_col = c_white;   // inside color of box
 text_col = c_dkgray;    // text color
 key = ord("Z");         // interaction key
-sp = .25;                 // characters per step
+sp = .5;                 // characters per step
 
 display_reset(8, true); // smooth shapes
 
