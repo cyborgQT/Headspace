@@ -73,26 +73,26 @@ assets:
           - "?s_sidecheating | GMSprite | 5295ac3b-7a78-41c2-9d10-25a10b0be040 | 2c633804-55c9-4fb4-88eb-aea3bfdab99d"
           - "?s_frontdoor | GMSprite | 33ce112d-633f-42fe-94e3-72de9b0a42ca | 1fa4870d-ad6d-48e5-a8e0-135b4c782440"
           - "?s_frontcheating | GMSprite | 5067a4e6-4f13-4c0b-bdf9-9a03354c375e | c4429cfc-aca6-4a3c-ae06-6453d06a2781"
-      - "UI | GMSprite | fe436fdd-d3ca-4f7c-80d2-f2424d9095e6 | 14d6a29f-416d-44e5-a7a5-6ae3e21f4514": 
-          - "?s_title | GMSprite | b2f79f17-cf7c-46b8-8d1d-4e502a7ecb07 | 25a9dd82-3b76-4b1d-99ec-4c08bc12f287"
-          - "?s_credit | GMSprite | 70252fa1-5707-43ac-acc3-38366669bb32 | 4804cfa8-dee0-4a7c-afb9-0a32f94b947e"
-          - "?s_controls | GMSprite | 6eab6787-42b0-4070-a78e-cd3263c3711e | ae6da760-ed7f-4ce3-a5b5-85555a4ed7bd"
       - "Helper | GMSprite | e7860c6a-486a-494b-8714-5b3da5137b4a | 4fe4ed47-3d4d-4435-83df-fe6c38872dbb": 
           - "?s_shadow | GMSprite | 2bcf89fd-9ba6-470a-99fd-02b581024df6 | 0f71988d-0eb1-48d3-9a66-754f28d6a768"
           - "?s_start_position | GMSprite | 7459fc90-885e-4fcb-9d3e-196e15d73d88 | 47808ce5-5d66-4b53-b850-0ac361044dd6"
           - "?s_end | GMSprite | c25ebe41-9333-4d2b-b117-9caf5e30504b | d10018c1-6f49-480c-bbc1-0a29db3b833b"
           - "?s_solid | GMSprite | 6cefd188-9662-4577-890c-390c42a1f9fd | df537c40-b3c0-446c-812f-9ac7f89bcf31"
           - "?s_npc | GMSprite | 39b26781-d825-4110-b8d3-61f4abdf2529 | 48490cd3-13e4-4f97-ac5e-7106820544ee"
+      - "Items | GMSprite | 87f11265-9241-4736-97b3-e35825c0a12d | 07473f90-32ab-4c92-abcd-e2b02a0737cb": 
+          - "?_s_doll_pickup | GMSprite | 90f41760-eabf-4ace-b626-b431c02a74ad | 863a1825-26c6-4c07-ae41-66b8c2c2a363"
+          - "?s_inhaler_pickup | GMSprite | b7e95043-c194-435f-b1ba-ae07f2cf98ef | a768a7b8-c932-493c-9b95-ba1dc962b359"
+          - "?s_pills_pickup | GMSprite | 2f3b35f5-903a-47f4-95c0-db6e0e3774b2 | c71f7157-f7ab-48ec-858c-61ced8c2e233"
       - "Inventory | GMSprite | b688ac21-c703-456c-a0c6-a230c1b3dada | 021c2a93-2770-4023-be09-9b3ae1411c12": 
           - "?s_doll | GMSprite | bf32e1b6-3cac-4c05-a4a0-7f13c7adc494 | d81f91a4-0821-4d32-9cd4-c4db014e0058"
           - "?s_pills | GMSprite | adde4239-628a-46e3-9756-f63b956cb20b | dd623bd4-b15d-4874-a516-cd33c70e73d7"
           - "?s_inhaler | GMSprite | 0c108603-912c-4a9c-9a55-abf3a5d42d4c | 2a1c82ca-eeae-47f9-92fb-67d7fd46c505"
           - "?s_inv_box | GMSprite | c55f949c-86b5-40b9-a8e1-f15d7f7d8056 | 00f285fd-492d-4ad7-bc51-d7025fb37332"
           - "?s_inv_box_closed | GMSprite | 2ec2eda8-62c9-4aa6-8720-94829e9830d7 | f5c4ecee-b51d-467b-a1ad-fa63d93e331b"
-      - "Items | GMSprite | 87f11265-9241-4736-97b3-e35825c0a12d | 07473f90-32ab-4c92-abcd-e2b02a0737cb": 
-          - "?_s_doll_pickup | GMSprite | 90f41760-eabf-4ace-b626-b431c02a74ad | 863a1825-26c6-4c07-ae41-66b8c2c2a363"
-          - "?s_inhaler_pickup | GMSprite | b7e95043-c194-435f-b1ba-ae07f2cf98ef | a768a7b8-c932-493c-9b95-ba1dc962b359"
-          - "?s_pills_pickup | GMSprite | 2f3b35f5-903a-47f4-95c0-db6e0e3774b2 | c71f7157-f7ab-48ec-858c-61ced8c2e233"
+      - "UI | GMSprite | fe436fdd-d3ca-4f7c-80d2-f2424d9095e6 | 14d6a29f-416d-44e5-a7a5-6ae3e21f4514": 
+          - "?s_title | GMSprite | b2f79f17-cf7c-46b8-8d1d-4e502a7ecb07 | 25a9dd82-3b76-4b1d-99ec-4c08bc12f287"
+          - "?s_credit | GMSprite | 70252fa1-5707-43ac-acc3-38366669bb32 | 4804cfa8-dee0-4a7c-afb9-0a32f94b947e"
+          - "?s_controls | GMSprite | 6eab6787-42b0-4070-a78e-cd3263c3711e | ae6da760-ed7f-4ce3-a5b5-85555a4ed7bd"
   - "tilesets | GMTileSet | 687ecd38-d30b-4a55-8f2d-4143e47750f6 | 49be2f1f-f7b0-44f2-aee7-e0fb24adb99a": []
   - "sounds | GMSound | 189fedf4-0675-4815-97a2-9a79e69b3493 | 3392dabd-45d3-466d-a682-f27666e4e898": 
       - "?snd_theme | GMSound | ce34a208-0537-439f-ab23-d3b6806fe494 | b5f5fd97-5c71-4da3-9f7e-f90554448163"
@@ -113,14 +113,14 @@ assets:
           - "?draw_shadows | GMScript | ef8bfb96-ac45-43dd-9d5f-23a9c6358b33 | 7b5aa096-6f52-44d9-8229-aafc9cb506e0"
           - "?singleton | GMScript | fca54073-ba6f-4d15-8ea8-19bde19fb107 | e7b54b23-9f58-4148-a110-abb34ff0929f"
           - "?array_find_index | GMScript | e4eeac30-df14-482b-bd1b-b38ab89d24f7 | 88b0bd65-10ca-4f6e-990a-05089f2219b1"
-      - "Dialog | GMScript | a1ecf18f-3de6-43c1-b7a0-afe8296bada4 | 61771adc-26de-484e-877d-1ae709d668df": 
+      - "Dialogue | GMScript | a1ecf18f-3de6-43c1-b7a0-afe8296bada4 | 61771adc-26de-484e-877d-1ae709d668df": 
           - "?scr_dialog | GMScript | e8d8d2c7-db36-4ded-afff-d1eb2d7e135e | 5eacfdf3-e3df-49b4-8868-fb20aaa46c76"
-          - "?scr_who_we_talkin_to | GMScript | 80aca063-9933-4d05-b029-c4c68999da4f | 40d2cf7a-091f-4f2d-ba8e-6ed4089ba883"
-      - "Quest Scripts | GMScript | a64560d6-cb20-4f3f-a037-8cffe7656a0b | 410f90f4-3bb7-4593-9c6e-f8680c29623b": 
-          - "?initialize_quests | GMScript | ddfd6ece-47fc-449b-ba32-5a7d63c1182f | 9efaf7ba-5e3e-410c-a677-03deb08a8240"
-          - "?inhaler_quest | GMScript | 190c8474-8d12-4c13-a7ea-975b89a1476a | a19a094c-8707-43f1-be98-42ede6604386"
-          - "?pill_quest | GMScript | d27cc8df-be6d-4363-8042-3967ce015a00 | 52e48601-5012-49bf-86b6-9eb0ef4754e3"
-          - "?doll_quest | GMScript | 066ff43c-13dc-4a6c-8eec-0cc08d330168 | 35a3bad0-f25d-40f7-913a-a84a8c718761"
+          - "?scr_nonquest_npc_dialog | GMScript | 80aca063-9933-4d05-b029-c4c68999da4f | 40d2cf7a-091f-4f2d-ba8e-6ed4089ba883"
+          - "Quest Scripts | GMScript | a64560d6-cb20-4f3f-a037-8cffe7656a0b | 410f90f4-3bb7-4593-9c6e-f8680c29623b": 
+              - "?initialize_quests | GMScript | ddfd6ece-47fc-449b-ba32-5a7d63c1182f | 9efaf7ba-5e3e-410c-a677-03deb08a8240"
+              - "?inhaler_quest | GMScript | 190c8474-8d12-4c13-a7ea-975b89a1476a | a19a094c-8707-43f1-be98-42ede6604386"
+              - "?pill_quest | GMScript | d27cc8df-be6d-4363-8042-3967ce015a00 | 52e48601-5012-49bf-86b6-9eb0ef4754e3"
+              - "?doll_quest | GMScript | 066ff43c-13dc-4a6c-8eec-0cc08d330168 | 35a3bad0-f25d-40f7-913a-a84a8c718761"
       - "Inventory | GMScript | 2a104a89-463d-413a-a3ae-b9343dd76c71 | 47c5fa17-22ff-4658-bdbc-d6a3e35dc358": 
           - "?create_inventory | GMScript | 6df81cf2-d561-4bb1-b5cb-2563109c6d11 | 0be067cd-280f-4858-b2ff-b0d25b6cdb7e"
           - "?inventory_add_item | GMScript | fce37d99-46e2-4903-84eb-0d7651e2f43a | f5037a39-ec26-496e-9349-2f29693e12ee"
@@ -134,6 +134,7 @@ assets:
   - "objects | GMObject | b03b1318-7220-4250-8057-ff34b851b44b | 679911df-0a41-4b58-a35d-cdc67d64b77d": 
       - "?obj_player | GMObject | f8d3803a-9301-4389-aabc-e7aa3b4fab70 | 20429431-1c74-4fb8-8a27-92b5d234b440"
       - "?obj_game | GMObject | 6764eb1a-b93f-4263-a5d3-bd3fc4cd1047 | 7d779d91-20ad-4ba1-b9a3-f4aa4493abaf"
+      - "?obj_input | GMObject | 750cba36-2aa1-4b35-97fe-ae9288b580e7 | 9a16fab9-9523-45cc-8b5b-3d9871b0bf37"
       - "Brain | GMObject | 8062f4f4-8822-4ec8-be7f-7f98f43f4b24 | f11a6429-0264-4a88-a4da-a89ee5add532": 
           - "?obj_human | GMObject | 7db32399-4411-4542-ad6f-ed4b616f4435 | 5c80e546-a805-4283-9366-e0e9cd0430a4"
           - "?obj_pizza | GMObject | 93bcfe93-4769-4071-bb12-403bfaf0e8ac | 15cc9334-0bff-4e22-95ea-bc88b8312f7f"
@@ -173,20 +174,19 @@ assets:
           - "?obj_frontcheating | GMObject | ab2586a8-9ce0-4e00-8da6-7ddd4b2b739b | e87d1fe4-222f-46d6-bbcf-970da28a6b83"
       - "Helper | GMObject | cb702a9e-1c8a-4477-aaa1-347a30c2acac | 3227d429-3fc1-43a1-94cf-16a8df8b73c0": 
           - "?obj_npc | GMObject | 63ba0249-822a-4bea-adbd-9061d10b44ec | c6f69b77-77d0-4a9a-8172-4c3fb473dd1b"
-          - "?obj_input | GMObject | 750cba36-2aa1-4b35-97fe-ae9288b580e7 | 9a16fab9-9523-45cc-8b5b-3d9871b0bf37"
-          - "?obj_camera | GMObject | 0ff75b06-e5a5-4b92-91ef-ba947166489f | c172198f-ba3c-48fd-98ab-22f7e1e492f2"
           - "?obj_dialog | GMObject | 0e259316-fde7-4ae1-9094-bf72a12d8b4e | 812d5fb7-c49c-459d-a6d2-d49515a04a3c"
+          - "?obj_camera | GMObject | 0ff75b06-e5a5-4b92-91ef-ba947166489f | c172198f-ba3c-48fd-98ab-22f7e1e492f2"
       - "Items | GMObject | 37a9bc0a-3d1e-4af7-945e-7972246d8e0b | e7306132-1f3c-4de4-a090-06c25553ae51": 
           - "?obj_pickup | GMObject | 760feaa5-e7a0-41ec-b558-9d285dd76246 | 7bbfe528-1fc1-4d55-afb3-7baf880fb9fa"
           - "?obj_pill_pickup | GMObject | d3179402-da97-437f-9528-82446df29445 | bfcb303d-1a2e-40b9-9b1b-dc787b8e8962"
-          - "?obj_doll_pickup | GMObject | 854d8318-e5dc-42b7-9491-97b7e87ada04 | 52dda3b4-9edd-4cd3-8091-c3cfea6e0827"
           - "?obj_inhaler_pickup | GMObject | 92a16841-10b2-4522-8168-c2d474c7ec83 | 07a4e5dd-2128-42c3-8025-39d9f8b78f45"
+          - "?obj_doll_pickup | GMObject | 854d8318-e5dc-42b7-9491-97b7e87ada04 | 52dda3b4-9edd-4cd3-8091-c3cfea6e0827"
+      - "UI | GMObject | b7d98821-fe2e-4e14-bce7-55ecfbb76ac9 | 41be2851-fafb-46e6-b838-d76995a549c6": 
           - "Inventory | GMObject | 97067d74-5924-463e-a5af-6461621ae57a | 363a3b3f-464e-4ebc-923c-159b26f16644": 
               - "?obj_inventory_item | GMObject | 506656f3-61e0-4145-b3af-bdb8d96b0df5 | df6bbace-444a-4a97-be43-b3dc9098ffa5"
               - "?obj_pill | GMObject | c6c4a3a6-79b8-4fd5-b848-f2571e07aefc | 707d7e48-3796-4297-9981-1bec811c1d7a"
               - "?obj_inhaler | GMObject | 44ab8bd2-c4c8-41ee-8b03-0b39e13010d2 | 442daa2a-74a7-47ab-88ee-6a91f063f4ef"
               - "?obj_doll | GMObject | dc33004c-54a5-4ff1-80eb-34bac4412420 | c5daccfc-4827-42db-bdc6-f0682ef43a6e"
-      - "UI | GMObject | b7d98821-fe2e-4e14-bce7-55ecfbb76ac9 | 41be2851-fafb-46e6-b838-d76995a549c6": 
           - "?obj_title | GMObject | cdae46da-33ef-4c33-8f83-453b53da210d | 1d521668-8a3c-42b1-a592-aed9b475db92"
           - "?obj_tutorial | GMObject | 293f6b54-0b59-4bd8-bcdd-f5af58c2bad5 | 51266f11-f6f0-4860-979a-aae20d7ed39f"
           - "?obj_gametitle | GMObject | 1fc16bd9-8364-4297-9105-ada6155bd7e2 | ae2c7764-6e30-426f-b0ce-436cc614e6d7"
