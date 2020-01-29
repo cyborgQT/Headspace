@@ -8,8 +8,10 @@
  *
  *  scene (arg0) - type int - the scenerio to play, as per the switch statement cases
  */
-var obj = instance_create_layer(0, 0, "Dialog", obj_dialog); // create the dialogue instance
-
+//if (!instance_exists(obj_dialog))
+//{
+	var obj = instance_create_layer(0, 0, "Dialog", obj_dialog); // create the dialogue instance
+//}
 switch (argument0) { // run through possible scenes
     case (0):
         obj.msg[0] = "Snff... My dollie's missing..."; // message

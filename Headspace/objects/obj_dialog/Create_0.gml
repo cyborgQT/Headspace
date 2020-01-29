@@ -11,8 +11,6 @@ text_col = c_dkgray;    // text color
 key = ord("Z");         // interaction key
 sp = .5;                 // characters per step
 
-display_reset(8, true); // smooth shapes
-
 bob = 0;                // variable to hold slight movement
 sine = 0;               // value
 
